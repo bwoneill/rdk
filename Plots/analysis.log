@@ -1,0 +1,348 @@
+bwoneill@CLU:~/Dropbox/RDK/Code$ root -l tools/login.C 
+root [0] 
+Processing tools/login.C...
+Loading libMinuit2... Done
+Loading libRdk... Done
+Loading libgomp... Done
+root [1] second_pass()
+Series 72
+Input events: 0
+Output events: 0
+Unpaired: -nan%
+Glitches: 0
+Series 75
+Input events: 0
+Output events: 0
+Unpaired: -nan%
+Glitches: 0
+Series 76
+Input events: 1068800
+Output events: 1072132
+Unpaired: 0.311751%
+Glitches: 316
+Series 77
+Input events: 2188400
+Output events: 2194820
+Unpaired: 0.293365%
+Glitches: 225
+Series 78
+Input events: 1634400
+Output events: 1637871
+Unpaired: 0.212372%
+Glitches: 447
+Series 79
+Input events: 1238900
+Output events: 1241259
+Unpaired: 0.190411%
+Glitches: 97
+Series 87
+Input events: 479600
+Output events: 480749
+Unpaired: 0.239575%
+Glitches: 216
+Series 89
+Input events: 508400
+Output events: 509739
+Unpaired: 0.263375%
+Glitches: 379
+Series 91
+Input events: 863700
+Output events: 865386
+Unpaired: 0.195207%
+Glitches: 17
+Series 93
+Input events: 1526600
+Output events: 1529725
+Unpaired: 0.204703%
+Glitches: 179
+Series 94
+Input events: 2848000
+Output events: 2854919
+Unpaired: 0.242942%
+Glitches: 330
+Series 95
+Input events: 1073600
+Output events: 1075945
+Unpaired: 0.218424%
+Glitches: 366
+Series 104
+Input events: 314340
+Output events: 315505
+Unpaired: 0.370618%
+Glitches: 63
+Series 105
+Input events: 172700
+Output events: 173387
+Unpaired: 0.3978%
+Glitches: 58
+Series 106
+Input events: 608240
+Output events: 610102
+Unpaired: 0.306129%
+Glitches: 111
+Series 108
+Input events: 61700
+Output events: 61803
+Unpaired: 0.166937%
+Glitches: 1
+Series 119
+Input events: 869000
+Output events: 870915
+Unpaired: 0.220368%
+Glitches: 340
+Series 120
+Input events: 1755100
+Output events: 1758922
+Unpaired: 0.217765%
+Glitches: 459
+Series 126
+Input events: 1881300
+Output events: 1885120
+Unpaired: 0.203051%
+Glitches: 599
+Series 127
+Input events: 1334100
+Output events: 1336516
+Unpaired: 0.181096%
+Glitches: 126
+Series 148
+Input events: 0
+Output events: 0
+Unpaired: -nan%
+Glitches: 0
+Series 151
+Input events: 501200
+Output events: 502220
+Unpaired: 0.203512%
+Glitches: 52
+Series 153
+Input events: 1116500
+Output events: 1118808
+Unpaired: 0.206717%
+Glitches: 329
+Series 154
+Input events: 90800
+Output events: 90976
+Unpaired: 0.193833%
+Glitches: 0
+Series 155
+Input events: 372300
+Output events: 372956
+Unpaired: 0.176202%
+Glitches: 56
+Series 156
+Input events: 1553500
+Output events: 1557471
+Unpaired: 0.255616%
+Glitches: 873
+Series 160
+Input events: 1711700
+Output events: 1714921
+Unpaired: 0.188175%
+Glitches: 182
+Series 161
+Input events: 901200
+Output events: 903176
+Unpaired: 0.219263%
+Glitches: 382
+Series 162
+Input events: 428100
+Output events: 428865
+Unpaired: 0.178697%
+Glitches: 83
+Series 163
+Input events: 0
+Output events: 0
+Unpaired: -nan%
+Glitches: 0
+Series 164
+Input events: 0
+Output events: 0
+Unpaired: -nan%
+Glitches: 0
+Series 165
+Input events: 481900
+Output events: 482774
+Unpaired: 0.181365%
+Glitches: 5
+Series 166
+Input events: 2804600
+Output events: 2811292
+Unpaired: 0.238608%
+Glitches: 477
+Series 175
+Input events: 574400
+Output events: 575293
+Unpaired: 0.155467%
+Glitches: 4
+Series 176
+Input events: 1305500
+Output events: 1308010
+Unpaired: 0.192264%
+Glitches: 149
+Series 185
+Input events: 416700
+Output events: 418056
+Unpaired: 0.325414%
+Glitches: 3
+Series 187
+Input events: 445000
+Output events: 445759
+Unpaired: 0.170562%
+Glitches: 9
+Series 213
+Input events: 52200
+Output events: 52291
+Unpaired: 0.17433%
+Glitches: 1
+Series 214
+Input events: 2028100
+Output events: 2032476
+Unpaired: 0.215768%
+Glitches: 302
+Series 215
+Input events: 1217400
+Output events: 1220053
+Unpaired: 0.217923%
+Glitches: 281
+Series 223
+Input events: 269600
+Output events: 270186
+Unpaired: 0.217359%
+Glitches: 3
+Series 227
+Input events: 560500
+Output events: 561780
+Unpaired: 0.228368%
+Glitches: 31
+Series 228
+Input events: 564200
+Output events: 565642
+Unpaired: 0.255583%
+Glitches: 148
+Series 234
+Input events: 0
+Output events: 0
+Unpaired: -nan%
+Glitches: 0
+Series 253
+Input events: 3760800
+Output events: 3769452
+Unpaired: 0.230057%
+Glitches: 743
+Series 256
+Input events: 1975300
+Output events: 1979541
+Unpaired: 0.214702%
+Glitches: 353
+Series 257
+Input events: 675000
+Output events: 676513
+Unpaired: 0.224148%
+Glitches: 22
+Series 258
+Input events: 2155700
+Output events: 2161357
+Unpaired: 0.262421%
+Glitches: 222
+Series 260
+Input events: 2226000
+Output events: 2231204
+Unpaired: 0.233783%
+Glitches: 557
+Series 261
+Input events: 863300
+Output events: 865216
+Unpaired: 0.221939%
+Glitches: 116
+Series 262
+Input events: 1910300
+Output events: 1914427
+Unpaired: 0.216039%
+Glitches: 326
+Series 263
+Input events: 236200
+Output events: 236752
+Unpaired: 0.2337%
+Glitches: 19
+Series 265
+Input events: 676100
+Output events: 677603
+Unpaired: 0.222304%
+Glitches: 91
+Series 267
+Input events: 315500
+Output events: 316001
+Unpaired: 0.158796%
+Glitches: 118
+Series 270
+Input events: 369400
+Output events: 369916
+Unpaired: 0.139686%
+Glitches: 38
+Series 289
+Input events: 1893600
+Output events: 1898121
+Unpaired: 0.238752%
+Glitches: 583
+Series 290
+Input events: 785900
+Output events: 787899
+Unpaired: 0.254358%
+Glitches: 203
+Series 291
+Input events: 546600
+Output events: 547767
+Unpaired: 0.213502%
+Glitches: 40
+Series 292
+Input events: 2413600
+Output events: 2419205
+Unpaired: 0.232226%
+Glitches: 212
+Series 304
+Input events: 1025900
+Output events: 1027719
+Unpaired: 0.177308%
+Glitches: 70
+Series 305
+Input events: 989800
+Output events: 992163
+Unpaired: 0.238735%
+Glitches: 243
+Series 311
+Input events: 162500
+Output events: 163123
+Unpaired: 0.383385%
+Glitches: 0
+Series 313
+Input events: 1844400
+Output events: 1848782
+Unpaired: 0.237584%
+Glitches: 259
+Series 314
+Input events: 72200
+Output events: 72374
+Unpaired: 0.240997%
+Glitches: 1
+Series 317
+Input events: 794800
+Output events: 796563
+Unpaired: 0.221817%
+Glitches: 127
+Series 318
+Input events: 1265100
+Output events: 1268126
+Unpaired: 0.239191%
+Glitches: 273
+Series 319
+Input events: 615800
+Output events: 617532
+Unpaired: 0.28126%
+Glitches: 403
+Series 321
+Input events: 138500
+Output events: 138767
+Unpaired: 0.19278%
+Glitches: 26
+root [2] 

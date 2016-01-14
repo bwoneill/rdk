@@ -1,0 +1,8 @@
+alias dict : RDKDict.cpp : <target-os>windows ;
+alias dict : RDKLinuxDict.cpp : <target-os>linux ;
+
+lib libRdk 
+    : /user-config//root /user-config//boost Analyzer.cpp bfstream.cpp BufferedReader.cpp CalibrationData.cpp CalibrationList.cpp DataReader.cpp DatReader.cpp EpFitFunction.cpp EpgFitFunction.cpp GFitFunction.cpp Header.cpp NdatReader.cpp NdatWriter.cpp Plotter.cpp Plotter2.cpp Quantity.cpp RawFileReader.cpp RDKConfig.cpp RDKReader.cpp RDKTools.cpp RDKTypes.cpp SecondPass.cpp Smoother.cpp ThreadedAnalyzer.cpp Threads.cpp TreeFilter.cpp RawTreeReader.cpp ExeWrapper.cpp TreeReader.cpp EpFitter.cpp GFitter.cpp EventDrawer.cpp EpFilter.cpp CompareData.cpp dict 
+	: <threading>multi
+	;
+install install-bin : libRdk : <variant>release:<location>"../bin" <variant>debug:<location>"../bin/debug" ;

@@ -1,0 +1,1 @@
+Diff from gaussian fits: 1.07419%

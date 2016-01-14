@@ -1,0 +1,55 @@
+\contentsline {figure}{\numberline {1.1}{\ignorespaces A schematic of the RDK I experiment.}}{4}{figure.caption.3}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Vertex corrections to the hadronic current}}{7}{figure.caption.4}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Feynman diagrams for radiative decay.}}{12}{figure.caption.5}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The NCNR beam lines.}}{15}{figure.caption.6}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Beam image and wavelength}}{16}{figure.caption.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Beam wavelength}}}{16}{subfigure.2.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Beam intensity (arbitrary units)}}}{16}{subfigure.2.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Model of the RDK II detector}}{16}{figure.caption.8}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces A schematic layout of the superconducting magnet}}{18}{figure.caption.9}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Comparison of magnetic field calculations}}{20}{figure.caption.11}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Silicon detector and schematic.}}{21}{figure.caption.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Silicon detector}}}{21}{subfigure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Schematic without outer casing}}}{21}{subfigure.6.2}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Typical signal from the silicon detector}}{22}{figure.caption.13}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces A photo of the electrostatic mirror.}}{23}{figure.caption.14}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces BGO scintillator and APD}}{25}{figure.caption.16}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Scintillator detector array}}{26}{figure.caption.17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {BGO-APD assembly}}}{26}{subfigure.10.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Detector model}}}{26}{subfigure.10.2}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces A typical BGO-APD signal with SBD signal.}}{27}{figure.caption.18}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Bare detector assembly.}}{28}{figure.caption.20}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {First assembly}}}{28}{subfigure.12.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Final assembly}}}{28}{subfigure.12.2}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces A typical bAPD signal with SBD signal.}}{29}{figure.caption.21}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Schematic of data acquisition system.}}{31}{figure.caption.22}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces A typical BGO-APD signal with SBD signal.}}{35}{figure.caption.23}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces A typical bAPD signal with SBD signal.}}{37}{figure.caption.24}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Example of local regression smoothing}}{39}{figure.caption.25}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces False trigger event.}}{44}{figure.caption.26}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces BGO observed energy and timing spectra.}}{46}{figure.caption.27}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {On-peak spectrum}}}{46}{subfigure.5.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Off-peak spectrum}}}{46}{subfigure.5.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Background subtracted spectrum}}}{46}{subfigure.5.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Timing windows}}}{46}{subfigure.5.4}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces bAPD observed energy and timing spectra.}}{47}{figure.caption.28}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {On-peak spectrum}}}{47}{subfigure.6.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Off-peak spectrum}}}{47}{subfigure.6.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Background subtracted spectrum}}}{47}{subfigure.6.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Timing windows}}}{47}{subfigure.6.4}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Observed spectra from a set of \emph {in situ} calibration runs.}}{50}{figure.caption.29}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Comparison of Cs-137 calibration data with Monte Carlo.}}{51}{figure.caption.30}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Results of warm up/cool down calibration run.}}{52}{figure.caption.31}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Positional dependent light output of BGO scintillators.}}{53}{figure.caption.32}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Direct detector collection efficiency.}}{55}{figure.caption.33}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Collection efficiency model for bAPD 1 as a function of penetration distance.}}}{55}{subfigure.5.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Collection efficiency times gain for bAPD 3 as a function of penetration distance.}}}{55}{subfigure.5.2}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces SBD peak height calibration fit.}}{56}{figure.caption.34}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Effect of electrostatic mirror voltage on the ep/e ratio.}}{57}{figure.caption.35}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Surface mesh used in Opera-3d.}}{62}{figure.caption.36}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Comparison of electron energy spectrum with Monte Carlo.}}{65}{figure.caption.38}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Comparison of the electron-proton time of flight with the Monte Carlo.}}{66}{figure.caption.39}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Comparison of BGO data and Monte Carlo on a linear scale.}}{68}{figure.caption.40}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Comparison of BGO data and Monte Carlo on a log-log scale.}}{69}{figure.caption.41}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Comparison of bAPD data and Monte Carlo.}}{70}{figure.caption.42}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Early simulation of the effects of a non-zero Fierz interference term.}}{73}{figure.caption.45}

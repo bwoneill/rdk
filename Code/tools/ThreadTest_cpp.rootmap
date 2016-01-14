@@ -1,0 +1,2 @@
+Library.ThreadTest_cpp: ThreadTest_cpp libCore.dll libRIO.dll libThread.dll libMathCore.dll
+Library.ThreadTest: ThreadTest_cpp  libCore.dll libRIO.dll libThread.dll libMathCore.dll

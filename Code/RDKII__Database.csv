@@ -1,0 +1,1009 @@
+Record Number,Series #,Reason for this Series,Runs of Interest,Run Type,Other Run Type,Log Book #,Log Book Page #,Start Date/Time,End Date/Time,Entered By,SB ID,Mirror Voltage,Beam,Detector Voltage,Dire Warning,Comments,Disk,Config
+1004,60,temperature record during warmup,all,Monitor,,3,1,2008-11-18 18:18:00-05,2008-11-28 14:29:00-05,HB,42-117A,0,Off,0,,no neutron data,Data0004,
+1005,61,temperature record during cooldown,all,Monitor,,3,6,2008-11-29 13:11:00-05,2008-12-02 18:00:00-05,HB,42-117A,0,,0,,no neutron data,Data0004,
+1006,62,temperature record during cooldown,all,Monitor,,3,6,2008-12-02 15:00:00-05,2008-12-02 19:49:00-05,HB,42-117A,0,,0,new log file data fomat (series and run included),no neutron data,Data0004,
+1007,63,temperature record during cooldown,all,Monitor,,3,0,2008-12-02 00:00:00-05,2008-12-03 08:54:00-05,HB,42-117A,0,,0,,"no neutron data 
+start time is an estimate, no log book entry",Data0004,
+1008,64,temperature record during cooldown,all,Monitor,,3,0,2008-12-02 00:00:00-05,2008-12-03 19:05:00-05,HB,42-117A,0,,0,,"no neutron data 
+start time is an estimate, no log book entry",Data0004,
+1010,65,temperature record during cooldown,all,Monitor,,3,,2008-12-03 00:00:00-05,2008-12-04 14:10:00-05,HB,42-117A,0,,0,,"no neutron data 
+start time is an estimate, no log book entry",Data0004,
+1009,65,temperature record during cooldown,all,Monitor,,3,0,2008-12-03 00:00:00-05,2008-12-04 14:10:00-05,HB,42-117A,0,,0,,"no neutron data 
+start time is an estimate, no log book entry",Data0004,
+1011,66,temperature record during cooldown,all,Monitor,,3,0,2008-12-04 00:00:00-05,2008-12-04 15:17:00-05,HB,42-117A,0,,0,,"no neutron data 
+start time is an estimate, no log book entry",Data0004,
+1012,67,temperature record during cooldown,all,Monitor,,3,0,2008-12-04 00:00:00-05,2008-12-05 08:50:00-05,HB,42-117A,0,,0,,"no neutron data 
+start time is an estimate, no log book entry",Data0004,
+1013,68,"temperature record during cooldown, testing system",all?,Test,also temperature record,3,16,2008-12-05 12:10:00-05,2008-12-05 14:09:00-05,HB,42-117A,0,,-25000,,"beam just came on; tests, mainly proton detector; 
+APDs maybe not yet fully cold",Data0004,
+1014,69,start production data taking,10 to end,Production,first 10 runs are tests,3,18,2008-12-05 20:11:00-05,2008-12-07 10:15:00-05,HB,42-117A,500,,-25000,APD 1 is dead,"runs 1 to 9 tests; only histograms recorded; 
+first production after beam break and warmup; 
+starting with run 10 production data; 
+last series with proton detector 42-117A 
+high proton singles rate; 
+APD1 is dead since cooldown; no hope for recovery",Data0004,0x45554554
+1015,70,still debugging,,Test,,3,24,2008-12-08 15:04:00-05,2008-12-07 17:58:00-05,HB,42-117C,1400,,-25000,new proton detector,"while intending to do production, several problems were 
+noticed and corrected. probably nothing but calibration 
+data.",Data0004,0x45554554
+1016,71,short calibration with NO beam,,Calibration,,3,25,2008-12-08 18:32:00-05,2008-12-07 18:44:00-05,HB,42-117C,1400,Off,-25000,,"after APD noise was hopefully reduced; no-beam data 
+for comparison with next series, which is production.",Data0004,
+1017,72,first production with new proton detector,all,Production,,3,25,2008-12-08 18:44:00-05,2008-12-10 00:00:00-05,HB,42-117C,1400,On,-25000,,"first production data with new proton detector. 
+interrupted from 14:40 to 16:03 for cryogen filling; 
+resumed series after that without change. 
+Still running as of 12/09/08 18:15",Data0004,0x45554554
+1018,73,lower mirror voltage,all,Test,,3,26,2008-12-10 11:45:00-05,,JSN,42-117C,0,On,-25000,,Why didn't the trigger rate drop more when I dropped the mirror voltage to 0.,Data0004,0x45554554
+1019,74,Testing mirror = 0V; lower mirror voltage,all,Test,,3,27,2008-12-10 15:30:00-05,,JSN,42-117C,0,On,-25000,This run accidentally had the proton spec amp integration time at 1 ??s.,"The mirror has been behaving erratically. This run may 
+or may not be at zero mirror voltage.",Data0004,0x45554554
+1039,75,maybe production,,Production,,3,28,2008-12-11 13:59:00-05,,JSN,42-117C,0,On,-25000,,proton shaping time back to 250 ns,Data0004,0x45554554
+1021,76,Possible data run but mirror may be disconnected,,Production,,3,29,2008-12-11 18:00:00-05,,JSN,42-117C,1400,On,-25000,Mirror may be disconnected; No photon channel 00,,Data0004,0x45554554
+1032,77,Possible data run but mirror may be disconnected,,Production,,3,31,2008-12-13 13:43:00-05,,JSN,42-117C,1400,On,-25000,Mirror may be disconnected; No photon channel 00,,Data0004,0x45554554
+1022,78,Possible data run,,Production,,3,32,2009-12-15 13:37:00-05,,JSN,42-117C,1400,On,-25000,mirror may be disconnected; no photon channel 00,"This is the first run with the design collimation (C1 = 1.00""). 
+The West 1/v amp was swapped out due to drifting.",Data0005,0x45554554
+1033,79,Possible data run,,Production,,3,37,2009-12-18 18:51:00-05,,JSN,42-117C,1400,On,-25000,mirror may be disconnected; no photon channel 00,,Data0005,0x45554554
+1034,80,temperature monitor,,Monitor,,3,39,2008-12-20 13:14:00-05,,JSN,42-117C,0,Off,0,,,Data0005,0x45554554
+1035,81,Monitor during shutdown,,Monitor,,3,,,,JSN,42-117C,0,Off,0,,,Data0005,
+1023,82,monitor during shutdown,,Monitor,,3,,,,JSN,42-117C,0,Off,0,,,Data0005,
+1037,83,,,Test,,3,49,2009-01-06 11:00:00-05,,,42-117C,0,On,-25000,,getting apparatus ready to run after shutdown,Data0005,
+1038,84,calibration and testing,,Calibration,,3,53,2009-01-06 19:51:00-05,,JSN,42-117C,1000,On,-25000,,,Data0005,0x45544555
+1024,85,cool down,,Other,cool down,3,54,2009-01-06 21:30:00-05,,JSN,42-117C,1400,On,-25000,photon detectors still cooling,,Data0005,0x45544555
+1030,87,data run,,Production,,3,57,2009-01-07 21:28:00-05,,JSN,42-117C,1400,On,-25000,Channel 7 (<=> Board10) may have slower risetime,,Data0005,0x45544555
+1029,88,scan of mirror voltages,,Test,,3,58,2008-01-08 14:29:00-05,,JSN,42-117C,0,On,-25000,Channel 7 (<=> Board10) may have slower risetime,These runs are at different mirror voltages.,Data0005,0x45544555
+1028,89,1400 mirror,,Production,,3,58,2009-01-09 00:02:00-05,,JSN,42-117C,1400,On,-25000,Channel 7 (<=> Board10) may have slower risetime,,Data0005,0x45544555
+1027,90,zero volt mirror,,Production,,3,61,2009-01-09 17:30:00-05,,JSN,42-117C,0,On,-25000,Channel 7 (<=> Board10) may have slower risetime,,Data0006,0x45544555
+1031,91,back up to full mirror,,Production,,3,61,2009-01-12 10:01:00-05,2009-01-13 14:25:00-05,JSN,42-117C,1400,On,-25000,Channel 7 (<=> Board10) may have slower risetime,,Data0006,0x45544555
+1041,92,small APD HV changes,,Production,,3,62,2009-01-13 16:39:00-05,2009-01-15 13:35:00-05,HB,42-117C,1400,On,-25000,,Channel 7 (<=> Board10) may have slower risetime (always...),Data0006,0x45544555
+1042,93,"again small APD HV changes, Threshold changes",,Production,HV-off calib. r40-47,3,64,2009-01-15 15:37:00-05,2009-01-18 15:10:00-05,HB,42-117C,1400,On,-25000,BertranHV tripped last 10 hours; run27-32: disk problem,"APDs 8, 11, 12 small HV changes; 
+thresholds for calibration runs increased for 
+detectors 1,2,4,5,6,10; 
+runs 27 to 32 do not exist,since disk drives went off-line; 
+runs 39(most of run 39)to 47: Bertran HV had tripped: use as calibration data. 
+Detector 7 may have regular rise time in later part of Series.",Data0006,0x45544555
+1043,94,Threshold changes (on-line analysis);,,Production,,3,65,2009-01-18 16:17:00-05,,HB,42-117C,1400,On,-25000,,"changed online analysis threshold and mode. 
+Detector 7 had normal rise time at beginning of series.",Data0006,0x45554555
+1044,95,,,Production,,3,69,2009-01-22 17:25:00-05,,JSN,42-117C,1400,On,-25000,,Swapped data disks,Data0007,0x45554555
+1045,96,,,Production,,3,71,2009-01-24 09:30:00-05,,JSN,42-117C,0,On,-25000,,"Note that there is an problem with the e-p rate versus 
+mirror voltage scan. It is not understood.",Data0007,0x45554555
+1046,97,systematic run with SBD HV off,,Test,Systematic,3,71,2009-01-26 07:25:00-05,,JSN,42-117C,1400,On,0,The photon detector voltages were briefly put to 0 between Runs 8 and 9,"Note that there is an problem with the e-p rate versus 
+mirror voltage scan. It is not understood.",Data0007,0x45554555
+1047,98,Magnet off systematic run,,Test,Systematic,3,72,2009-01-27 10:22:00-05,,JSN,42-117C,1400,On,-25000,B field is off; HV tripped during run; photon detector gain may still be settling,,Data0007,
+1048,99,Continuation of B=0 systematic run,,Test,Systematic,3,,2009-01-28 18:50:00-05,2009-01-29 08:28:00-05,JSN,42-117C,1400,On,-25000,,"Rx when down toward end of running. This is the end of the third cycle. 
+Beam apparently went off at ~6:00 am during run 18 (a calibration run)",Data0007,
+1049,100,Systematic test with Rx off; everything else as usual,,Test,Systematic,3,74,2009-01-29 09:15:00-05,2009-02-02 12:14:00-05,JSN,42-117C,1400,Off,-25000,Rx off,,Data0007,0x45554555
+1050,101,SB detector source/pulser calibrations,,Calibration,Systematic,3,78,2009-02-02 14:53:00-05,2009-02-02 17:25:00-05,HB,42-117C,1400,Off,-25000,,"run 0: pulser low setting, long rise time 
+run 1: pulser high (x5) setting, long rise time 
+fast rise time (50 ns) after this... 
+run 2: pulser low (x1) 
+run 3: pulser high (x5) 
+after this all runs with Am source (sometimes + pulser) 
+run 4: source only (369 sec), right after moving det. 
+run 5: pulser low (125 sec) 
+run 6: pulser high (~120 sec) 
+run 7: source only, no pulser (369 sec) 
+run 8: source+pulser(high) (3605 sec) 
+run 9: source+pulser(high) (474 sec) 
+run 10: same, higher discr. thresholds (133 sec) 
+run 11: same, again increased d. thr. (211 sec) 
+run 12: same, again increased d. thr. (130 sec) 
+run 13: same, card 2 threshold 100% (10 mins) 
+run 14: same again; short",Data0007,
+1051,102,,,Monitor,,3,84,2009-02-09 14:00:00-05,,JSN,47-113B,0,Off,0,,,Data0007,
+1052,103,mirror testing,,Test,,3,89,2009-02-12 15:00:00-05,,JSN,47-113B,0,On,-25000,,,Data0007,
+1053,104,First run of Cycle 4,,Production,,3,90,2009-02-12 19:11:00-05,,JSN,47-113B,1400,On,-25000,APDs may still be stabilizing,New SBD and new gains adjustments for it,Data0007,0x45554555
+1054,105,,,Production,,3,91,2009-02-13 10:00:00-05,,JSN,47-113B,1400,On,-25000,APDs may still be stabilizing,,Data0007,0x45554555
+1055,106,,,Production,,3,93,2009-02-13 19:00:00-05,,JSN,47-113B,1400,On,-25000,,"Added TAC sigmal to channel 06 (i.e., first board, formerly empty channel 7 of 8)",Data0007,0x45554555
+1070,107,get TAC time spectra for low mirror HVs,0-4,Calibration,,3,95,2009-02-15 17:40:00-05,2009-02-15 21:45:00-05,hb,47-113B,0,On,-25000,varying mirror HVs!,"run 0: 0V mirror 
+run 1: 30V mirror 
+run 2: 120V mirror 
+run 3: 60V mirror 
+run 4: 90V mirror",Data0007,0x45554555
+1058,108,,,Production,,3,95,2009-02-15 21:40:00-05,,HB,47-113B,1400,On,-25000,HV tripped,"Changed ""segmentcount"" from 20 to 100; this undoes change 
+I made on page 74; 01/28/09; might affect dead time a bit.",Data0007,0x45554555
+1059,109,new mirror HV=300,,Production,,3,95,2009-02-16 09:15:00-05,2009-02-17 15:15:00-05,HB,47-113B,300,On,-25000,APD 12 noisy,"stopped to change calibration threshold for APD 12, which 
+is noisy since beginning of series 109",Data0007,0x45554555
+1060,110,,,Production,,3,96,2009-02-17 15:57:00-05,2009-02-17 20:55:00-05,HB,47-113B,300,On,-25000,APD 12 probably still noisy,"APD 12 with higher calibration threshold, due to 
+increased noise (file size) 
+Stop series to change data disk.",Data0007,0x45554555
+1061,111,new disk drive,,Production,,3,97,2009-02-17 20:58:00-05,2009-01-19 16:06:00-05,HB,47-113B,300,On,-25000,APD 12 probably still noisy for part of series.,"No change from series 110 except for output disk. 
+APD 12 was quiet when checking after Series ended.",Data0008,0x45554555
+1062,112,,0-2,Other,only calibration runs good,3,98,2009-02-19 16:51:00-05,2009-02-19 17:30:00-05,HB,47-113B,300,On,-25000,no coincidences!,"Revert to old, low calibration threshold for det 12, 
+since noise has disappeared. 
+No coincidence triggers; found cable not properly 
+plugged in, probably since a long time.",Data0008,0x45554555
+1063,113,,,Production,,3,98,2009-02-19 16:42:00-05,,HB,47-113B,300,On,-25000,,,Data0008,0x45554555
+1064,114,,,Production,,3,99,2009-02-21 11:05:00-05,,JSN,47-113B,0,On,-25000,,,Data0008,0x45554555
+1065,115,,,Production,,3,99,2009-02-23 12:00:00-05,2009-02-25 14:17:00-05,JSN,47-113B,0,On,-25000,,,Data0008,0x45554555
+1066,116,time calibration (tof),,Calibration,,3,200,2009-02-25 15:10:00-05,2009-02-25 15:25:00-05,HB,47-113B,0,,-25000,no real data!,"Time calibration for first card, channel 7 (containing TAC) 
+using the Ortec 462 time calibrator. 
+Run 0: TAC = 20 us; pulser 20.48 us range, 1.28 us period 
+Run 1: TAC = 20 us; pulser 40.96 us range, 0.64 us period 
+Run 2: TAC = 5 us; pulser 40.96 us range, 0.64 us period 
+Run 3: TAC = 40 us; pulser 40.96 us range, 0.64 us period",Data0008,0x45554555
+1071,117,get TAC time spectra for low mirror HVs,0-1,Calibration,,3,101,2009-02-25 15:31:00-05,2009-02-15 17:30:00-05,HB,47-113B,0,On,-25000,varying mirror HVs!,"continuation of series 107 
+run 0: 150V mirror 
+run 1: 180V mirror ",Data0008,0x45554555
+1072,118,,,Production,,3,102,2009-02-25 17:34:00-05,,HB,47-113B,0,On,-25000,,continue production from series 115 without change ,Data0008,0x45554555
+1073,119,,,Production,,3,102,2009-02-27 15:50:00-05,,JSN,47-113B,1400,On,-25000,HV trip during run,,Data0008,0x45554555
+1074,120,,,Production,,3,103,2009-03-01 14:25:00-05,,JSN,47-113B,1400,On,-25000,,,Data0008,0x45554555
+1076,121,,,Production,,3,105,2009-03-04 13:39:00-05,,JSN,47-113B,300,On,-25000,,,Data0008,0x45554555
+1077,122,,,Production,,3,105,2009-03-05 10:54:00-05,2009-03-06 17:30:00-05,JSN,47-113B,300,On,-25000,,,Data0009,0x45554555
+1078,123,,,Production,,3,106,2009-03-06 18:39:00-05,,HB,47-113B,300,On,-25000,,"Card 2, channel 6,8 threshold changed in 
+calibration .ini file.",Data0009,0x45554555
+1080,124,test 2 new mirror voltages,,Calibration,,3,106,2009-03-09 15:27:00-04,2009-03-09 18:06:00-04,HB,47-113B,0,On,-25000,,"a good hour of coincidence data each for: 
+run 0: 500V mirror 
+run 1: 700V mirror 
+for comparison of TOF results with MC",Data0009,0x45554555
+1079,125,change of mirror HV to 150 V,,Production,,3,107,2009-03-09 19:08:00-04,,HB,47-113B,150,On,-25000,,,Data0009,0x45554555
+1081,126,,,Production,,3,107,2009-03-10 15:38:00-04,,JSN,47-113B,1400,On,-25000,,,Data0009,0x45554555
+1082,127,,,Production,,3,108,2009-03-13 10:00:00-04,,JSN,47-113B,1400,On,-25000,,,Data0009,0x45554555
+1083,128,B=0 run,,Test,Systematic,3,109,2009-03-15 10:38:00-04,,JSN,47-113B,1400,On,-25000,magnet is OFF,,Data0009,
+1084,129,Am-241 calibration,,Calibration,,3,110,2009-03-16 13:58:00-04,,JSN,47-113B,0,Off,0,,magnet is OFF,Data0009,
+1085,130,Rx off; monitor,,Monitor,,3,111,2009-03-16 15:08:00-04,,JSN,47-113B,0,Off,0,,,Data0009,
+1086,132,Rx off; monitor,,Monitor,,3,117,2009-03-30 10:30:00-04,,JSN,47-113B,0,Off,0,,,Data0009,
+1087,133,Rx off; calibration,,Calibration,,3,120,2009-04-01 18:25:00-04,,JSN,47-113B,0,Off,0,,,Data0009,
+1088,134,Rx off; calibration,,Calibration,,3,121,2009-04-02 14:43:00-04,,JSN,47-113B,0,Off,0,,,Data0009,
+1089,135,Rx off; calibration; source under magnet near bare APDs,,Calibration,,3,122,2009-04-03 14:00:00-04,,JSN,47-113B,0,Off,0,,,Data0010,
+1091,136,Rx off; monitor,,Monitor,,3,124,2009-04-04 19:33:00-04,,JSN,47-113B,0,Off,0,,,Data0010,
+1092,137,Rx off; LHe cooling down,,Test,,3,126,2009-04-05 17:00:00-04,,JSN,47-113B,0,Off,0,,,Data0010,
+1093,140,Rx off;,,Test,,3,128,2009-04-08 13:30:00-04,,JSN,47-113B,0,Off,0,,,Data0010,
+1094,141,Rx off; SBD calibration with Am-241 and Co-57,,Calibration,,3,128,2009-04-08 14:00:00-04,,JSN,47-113B,0,Off,0,,,Data0010,
+1095,142,Rx off;,,Test,,3,130,2009-04-08 20:48:00-04,,JSN,47-113B,0,Off,0,,,Data0010,
+1096,143,Rx on,,Test,,3,134,2009-04-09 14:13:00-04,,JSN,47-113B,90,On,-25000,,,Data0010,
+1097,144,Rx on,,Test,,3,134,2009-04-09 14:15:30-04,,JSN,47-113B,60,On,-25000,,,Data0010,
+1098,145,Rx on,,Test,,3,134,2009-04-09 16:53:00-04,,JSN,47-113B,0,On,-25000,,,Data0010,
+1099,146,Rx on,,Test,,3,134,2009-04-09 18:31:00-04,,JSN,47-113B,1400,On,-25000,,,Data0010,
+1100,147,,,Test,"Test of ""chared Pb-aperture idea",3,136,2009-04-09 19:55:00-04,,JSN,47-113B,30,On,-25000,Pb-aperture at 51.4 V,"With Pb-aperture at 51.4 V scan mirror HV: 
+run 1 (30V mirror); run 2(60V); run 3(90V) 
+run 4 (120V); run 5(500V); run 6(1400V); run 7 (0V)",Data0010,
+1106,148,,,Production,,3,137,2009-04-09 21:33:00-04,2009-04-10 16:20:00-04,JSN,47-113B,1400,On,-25000,no detectors 6 and 12 (replaced by bare APDs 3 and 4),"BAPD1 in board 1 channel 7 
+BAPD2 in board 2 channel 7 
+BAPD3 in board 1 channel 6 
+BAPD4 in board 2 channel 6 
+Note: calibration runs BAPDs 2000 mV full range 
+coincidence runs BAPDs 1000 mV full scale 
+for this and following series at least to S154",Data0010,0x69556955
+1101,149,Ramping mirror voltages,01/25/12,Other,Mirror ramp,3,138,2009-04-10 16:28:00-04,,JSN,47-113B,0,On,-25000,mirror ramp,"Run1-5: 1200,1000,700,500,300V 
+Run6-10: 200,0,20,40,80V 
+Run11-15: 60,50,30,10,120V 
+Run16-20: 70,100,150,130,110V 
+Run21-25: 55,45,170,120,35V",Data0010,0x45554555
+1102,150,Ramping voltage applied to Pb-aperture,,Other,Pb-aperture ramp,3,139,2009-04-10 20:19:00-04,,JSN,47-113B,0,On,-25000,Pb-aperture ramp,"runs 0-4: mirror at 0V, PbAperture= 100,200,400,600,300V 
+runs 5-14: mirror at 1400, 
+PbAperture= 600,700,800,900,1000,950,1100,400,200,100V",Data0010,0x45554555
+1103,151,Possible production run; bare APDs in channels 6 & 7,,Other,possible production,3,142,2009-04-10 21:57:00-04,2009-04-11 16:34:00-04,JSN,47-113B,1400,On,-25000,no detectors 6 and 12 (replaced by bare APDs 3 and 4),"Bare-APDs, #: card-channel in Gage cards 
+BAPD1: 1-7 
+BAPD2: 2-7 
+BAPD3: 1-6 
+BAPD4: 2-7",Data0010,0x69556955
+1104,152,source data with bare APDs and SBD,,Calibration,,3,144,2009-04-11 20:00:00-04,,JSN,47-113B,1400,Off,-25000,"no event data, only online analysis files","triggers are only SB and Bare-APDs, Cs and Na source; beam off",Data0010,
+1107,153,,,Production,,3,145,2009-04-11 20:23:00-04,,JSN,47-113B,1400,On,-25000,,"Normal BGO channels 1-12; two bare APDs(#1 and #2) 
+in empty channel (chs 7 in both boards)",Data0010,0x65556555
+1105,154,,,Production,,3,146,2009-04-14 16:00:26-04,,JSN,47-113B,1400,On,-25000,,,Data0010,0x65556555
+1108,155,,,Production,,3,147,2009-04-14 18:58:00-04,,JSN,47-113B,1400,On,-25000,,changed threshold of APDs,Data0010,0x65556555
+1109,156,,,Production,,3,148,2009-04-15 10:00:00-04,,JSN,47-113B,1400,On,-25000,,noticed that East 1/v detector is dead,Data0010,0x65556555
+1110,157,mirror HV tests,,Test,,3,148,2009-04-17 17:12:00-04,,JSN,47-113B,1400,On,-25000,,,Data0010,0x65556555
+1111,158,bAPDs off; ramp mirror voltage,,Test,,3,149,2009-04-17 17:51:00-04,,JSN,47-113B,0,On,-25000,,,Data0010,0x65556555
+1112,159,very short run,,Production,,3,150,2009-04-17 19:55:00-04,,JSN,47-113B,1400,On,-25000,,,Data0010,0x65556555
+1113,160,,,Production,,3,150,2009-04-17 19:58:00-04,,JSN,47-113B,1400,On,-25000,,,Data0011,0x65556555
+1119,161,,,Production,,3,151,2009-04-20 00:00:00-04,,JSN,47-113B,1400,On,-25000,,,Data0011,0x65556555
+1114,162,,,Production,,3,151,2009-04-21 18:19:00-04,,JSN,47-113B,1400,On,-25000,,,Data0011,0x65556555
+1115,163,,,Production,,3,152,2009-04-22 09:20:00-04,,JSN,47-113B,1400,On,-25000,Cs-137 and Co-60 sources under magnet,,Data0011,0x65556555
+1117,164,removed sources; change a bAPD bias,,Production,,3,152,2009-04-22 12:20:00-04,,JSN,47-113B,1400,On,-25000,removed sources; change a bAPD bias,,Data0011,0x65556555
+1116,165,take APD B3 for MCA tests; connect B1 to DAQ,,Production,,3,152,2009-04-22 00:00:00-04,,JSN,47-113B,1400,On,-25000,take APD B3 for MCA tests; connect B1 to DAQ,,Data0011,0x65556555
+1118,166,swap around some of the bAPD inputs,,Production,,3,152,2009-04-23 08:30:00-04,,JSN,47-113B,1400,On,-25000,changed some bAPD inputs,,Data0011,0x65556555
+1120,167,,,Production,,3,153,2009-04-27 13:20:00-04,2009-04-28 15:03:00-04,JSN,47-113B,0,On,-25000,HV trip for extended period,"HV was tripped/off between about midnight and 
+about 7 am 04/28.",Data0011,0x65556555
+1121,168,SB detector calibrations with sources,,Calibration,,3,154,2009-04-28 15:06:00-04,2009-04-28 16:14:00-04,HB,47-113B,0,Off,-25000,,,Data0011,0x65556555
+1122,169,Mirror voltage scan,,Test,,3,155,2009-04-28 17:28:00-04,2009-04-28 22:00:00-04,HB,47-113B,999999,On,-25000,e-trigger; changing Mirror voltages; TAC in board1ch7,"removed B-APD-1 from board1, ch.7 and replaced by TAC signal 
+restored original configuration after series. 
+This series has only e- as trigger, not ep; restored after this series. 
+run 0: mirror = 0V 
+run 1: mirror = 60V 
+run 2: mirror = 30V (interruption in reactor power, I think) 
+run 3: mirror = 90V 
+run 4: mirror = 120V 
+run 5: mirror = 150V 
+run 6: mirror = 30V",Data0011,0x65554555
+1123,170,,,Production,,3,156,2009-04-28 22:00:00-04,2009-04-29 16:30:00-04,HB,47-113B,0,On,-25000,,"normal production again, 
+just like series 167; 
+note that SB detector might still be 
+a bit warm at start of this series.",Data0011,0x65556555
+1125,171,,,Production,,3,156,2009-04-29 16:30:00-04,,JSN,47-113B,0,On,-25000,,,Data0012,0x65556555
+1126,172,,,Production,,3,159,2009-05-02 09:20:00-04,,JSN,47-113B,0,On,-25000,HV tripped during run and DAQ was on during a fill,,Data0012,0x65556555
+1127,173,switch back to 1400V,,Production,,3,159,2009-05-04 12:20:00-04,2009-05-04 13:00:00-04,JSN,47-113B,1400,On,-25000,Nico deleted this series,only 10 minutes of coincidence data...,Data0012,0x65556555
+1128,174,TAC spectra at different Mirror/Pb voltage,,Test,,3,160,2009-05-04 13:05:00-04,2009-05-04 19:30:00-04,HB,47-113B,999999,On,-25000,hardware trigger: e only,"TAC calibration data 
+note: hardware trigger is e only (instead of ep) 
+run mirror-HV Pb-aperture-HV 
+0 --- 1400 ----- 0 
+1 --- 1400 ---- 51.4 
+2 ----- 0 ---- 51.4 
+3 ---- 60 ---- 51.4 
+4 garbage 
+5 ---- 90 ---- 51.4 
+6 --- 300 ---- 51.4 
+7 --- 300 ----- 0 
+8 --- 180 ----- 0",Data0012,0x65556555
+1129,175,production 1400 V with TAC,,Production,,3,160,2009-05-04 19:30:00-04,,HB,47-113B,1400,On,-25000,TAC instead of B-APD1,"Gage card 1 channel 7 is TAC instead 
+of bare-APD 1.",Data0012,0x65554555
+1130,176,removed TAC signal and back to bare APD,,Production,,3,161,2009-05-05 15:40:00-04,2009-05-07 13:04:00-04,JSN,47-113B,1400,On,-25000,,Gage card 1 channel 7 is back to bare-APD 1 instead of TAC,Data0012,0x65556555
+1132,177,Note: trigger is >= p and not the usual e-p,,Test,,3,162,2009-05-07 13:47:00-04,,JSN,47-113B,150,On,-25000,trigger >= proton signal and not the usual e-p trigger,,Data0012,0x65556555
+1134,178,Trigger is back to the usual e-p,,Production,,3,162,2009-05-07 21:55:00-04,,JSN,47-113B,150,On,-25000,,normal e-p trigger,Data0012,0x65556555
+1133,179,,,Production,,3,162,2009-05-08 13:35:00-04,,JSN,47-113B,300,On,-25000,,,Data0012,0x65556555
+1135,180,,,Production,,3,163,2009-05-09 11:00:00-04,,JSN,47-113B,300,On,-25000,,,Data0012,0x65556555
+1136,181,,,Production,,3,163,2009-05-11 10:30:00-04,,JSN,47-113B,300,On,-25000,,,Data0012,0x65556555
+1137,182,trigger on proton energy and above,,Test,,3,163,2009-05-12 14:45:00-04,,JSN,47-113B,1400,On,-25000,APD voltages are all wrong!!,"Accidentally set all APD voltages to 1400 V instead of just 
+one channel. This can happen if you do not click directly on 
+the channel - as I found out. I think that all the electron 
+spectra, however, should be OK.",Data0012,0x65556555
+1138,183,back to normal trigger but APD voltages are still wrong,,Other,,3,163,2009-05-12 17:45:00-04,,JSN,47-113B,1400,On,-25000,APD voltages are all wrong - do not use!!,"Accidentally set all APD voltages to 1400 V instead of just 
+one channel. This can happen if you do not click directly on 
+the channel - as I found out. I think that all the electron 
+spectra, however, should be OK.",Data0012,0x65556555
+1139,184,test with proton and above trigger,,Test,,3,164,2009-05-13 08:25:00-04,,JSN,47-113B,1400,On,0,APD gains may still be drifting,"HV=0V; trigger is proton and above; 
+
+just after putting APD voltages back to correct values - they may still be drifting",Data0013,0x65556555
+1140,185,back to normal running,,Production,,3,165,2009-05-13 16:45:00-04,,JSN,47-113B,1400,On,-25000,APD gains may still be drifting,"put APD voltages back to correct values after snafu 
+this morning - they may still be drifting",Data0013,0x65556555
+1141,186,another proton-and-above trigger run,,Test,,3,165,2009-05-14 07:30:00-04,,JSN,47-113B,1400,On,-25000,trigger is on proton energy and above,,Data0013,0x65556555
+1142,187,normal trigger,,Production,,3,165,2009-05-14 16:50:00-04,,JSN,47-113B,1400,On,-25000,,,Data0013,0x65556555
+1143,188,SBD calibration; B=0,,Calibration,,3,165,2009-05-15 09:55:00-04,,JSN,47-113B,1400,On,0,B=0,magnet off,Data0013,
+1144,189,trigger on proton and above; B=0,,Test,,3,166,2009-05-15 10:45:00-04,,JSN,47-113B,1400,On,-25000,B=0; trigger on proton and above,magnet off,Data0013,
+1145,190,trigger on proton and above; B=0,,Test,,3,166,2009-05-15 00:00:00-04,,JSN,47-113B,1400,On,0,B=0; trigger on proton and above,magnet off,Data0013,
+1147,191,normal trigger; B=0,,Test,,3,167,2009-05-16 00:00:00-04,,JSN,47-113B,1400,On,-25000,B=0,normal trigger; magnet off - Rx went down in middle of run,Data0013,
+1146,191,normal trigger; B=0,,Test,,3,167,2009-05-16 00:00:00-04,,JSN,47-113B,1400,On,-25000,B=0,normal trigger; magnet off - Rx went down in middle of run,Data0013,
+1148,192,,,Monitor,,3,167,2009-05-18 08:34:00-04,,JSN,47-113B,0,Off,0,,Rx down,Data0013,
+1149,193,,,Monitor,,3,167,2009-05-18 11:54:00-04,,JSN,47-113B,0,Off,0,,Rx down,Data0013,
+1150,194,,,Monitor,,3,172,2009-05-25 09:10:00-04,,JSN,47-113B,0,Off,0,,Rx down; haven't started cooling yet; just finish vacuum bake,Data0013,
+1151,195,,,Monitor,,3,173,2009-05-25 14:45:00-04,,JSN,47-113B,0,Off,0,,Rx down; started cooling an hour or so ago,Data0013,
+1152,196,test with low APD bias,,Test,,3,173,2009-05-26 11:30:00-04,,JSN,47-113B,0,Off,0,,Rx down;,Data0013,
+1153,197,test with nominal APD bias,,Test,,3,174,2009-05-27 15:55:00-04,,JSN,47-113B,0,Off,0,,Rx down;,Data0013,
+1154,198,SBD off; APDs on,,Other,,3,174,2009-05-28 11:52:00-04,,JSN,,0,On,0,,Rx up but having SBD problem,Data0013,
+1155,199,calibration runs while working on SBD problem,,Calibration,,3,178,2009-05-31 14:37:00-04,,JSN,,0,On,0,,Rx up; still having SBD problem,Data0013,
+1157,200,calibration runs while working on SBD problem,,Calibration,,3,178,2009-05-31 17:37:00-04,,JSN,,0,On,0,,Rx up; still having SBD problem,Data0013,
+1158,201,SBD cooling down,,Other,cooldown,3,180,2009-06-01 10:45:00-04,,JSN,42-117C,0,On,-25000,,"first SBD run with old, 1.0 mm SBD; still cooling",Data0013,
+1159,202,,,Production,cooldown,3,182,2009-06-01 19:52:00-04,2009-06-02 08:05:00-04,HB,42-117C,0,On,-25000,,"sequence: 
+- 3 calibration runs (600 sec) regular APDs + SB 
+- 1 calibration run (600 sec) bare APDs 
+- 6 coincidence production runs (7200 sec each)",Data0013,0x65556555
+1160,203,,,Production,cooldown,3,183,2009-06-02 09:30:00-04,2009-06-02 15:05:00-04,HB,42-117C,0,On,-25000,some 1/v detector gains changed,,Data0013,0x65556555
+1161,204,mirror HV series,,Calibration,,3,183,2009-06-02 18:06:00-04,2009-06-02 15:05:00-04,HB,42-117C,999999,On,-25000,some 1/v detector gains changed,"runs 0 to 3: 30 V mirror; calibration trigger 
+run 4: 60 V mirror; coincidence trigger from here on 
+run 5: 120 V mirror 
+run 6: 10 V mirror 
+run 7: 20 V mirror 
+run 8: 90 V mirror 
+run 9: 500 V mirror 
+run 10: 1000 V mirror 
+run 11: 1400 V mirror 
+run 12: 700 V mirror 
+run 13: 300 V mirror 
+run 14: 200 V mirror 
+run 15: 70 V mirror 
+run 16: 40 V mirror",Data0013,0x65556555
+1162,205,,,Production,,3,184,2009-06-02 20:45:00-04,,JSN,42-117C,0,On,-25000,,,Data0013,0x65556555
+1163,206,new disk drive,,Production,,3,185,2009-06-04 15:15:00-04,2009-06-05 13:45:00-04,HB,42-117C,0,On,-25000,,,Data0014,0x65556555
+1164,207,,,Production,,3,185,2009-06-05 14:40:00-04,2009-06-08 14:00:00-04,HB,42-117C,1400,On,-25000,,,Data0014,0x65556555
+1165,208,Source calibration of SB detector,3 and 5,Calibration,,3,188,2009-06-08 14:45:00-04,2009-06-08 15:15:00-04,HB,42-117C,1400,On,-25000,,"run 3: 241-Am source 
+run 5: 57-Co source 
+other runs garbage",Data0014,0x65556555
+1167,209,"proton det. background, HV off!","scalers, run 0-2",Calibration,,3,188,2009-06-08 15:30:00-04,2009-06-08 15:56:00-04,HB,42-117C,0,On,0,SB detctor cooling down,"electron background rate with beam on but 
+proton HV off.",Data0014,0x65556555
+1166,210,check mirror voltage dependence,3 and 5,Calibration,,3,188,2009-06-08 16:10:00-04,2009-06-08 17:03:00-04,HB,42-117C,1400,On,-25000,SB detctor cooling down,"SB detector still cooling down from source runs; 
+""proton"" rate is ~3000 Hz instead of ~ 600 normally 
+run 1: 0 V mirror; coincidence trigger runs 1-3 
+run 2: 30 V mirror 
+run 3: 90 V mirror",Data0014,0x65556555
+1168,211,,,Production,,3,189,2009-06-08 17:05:00-04,,HB,42-117C,300,On,-25000,SB detctor cooling down,"since SB detector is still cooling 
+down: ""proton"" rate is high, thus random 
+background will be high for first runs.",Data0014,0x65556555
+1169,212,,,Production,,3,189,2009-06-10 15:55:00-04,2009-06-12 12:46:00-04,HB,42-117C,0,On,-25000,,,Data0014,0x65556555
+1170,213,,,Production,,3,190,2009-06-11 13:27:00-04,2009-06-11 15:44:00-04,HB,42-117C,1400,On,-25000,,,Data0014,0x65556555
+1172,214,,,Production,,3,192,2009-06-11 17:27:00-04,2009-06-15 16:45:00-04,HB,42-117C,1400,On,-25000,change some APD HVs; changed bAPD .ini gains,"changed 3 APD HVs slightly (#7,9,11); 
+changed .ini files for bare APD gains to 
+make them consistent with calibration .ini files.",Data0014,0x65556555
+1171,215,,,Production,,3,193,2009-06-15 16:50:00-04,,HB,42-117C,1400,On,-25000,,New Disk Data0015,Data0015,0x65556555
+1174,216,,,Production,,3,193,2009-06-17 11:55:00-04,,JSN,42-117C,300,On,-25000,,,Data0015,0x65556555
+1173,217,,,Production,,3,195,2009-06-20 09:50:00-04,,JSN,42-117C,300,On,-25000,,,Data0015,0x65556555
+1175,218,,,Production,,3,195,2009-06-21 16:43:00-04,,HB,42-117C,300,On,-25000,TAC instead of B-APD1,"after removing bare APD1, installed TAC signal in 
+board 1, channel 7",Data0015,0x65554555
+1178,219,,,Production,,3,195,2009-06-20 18:30:00-04,,HB,42-117C,0,On,-25000,TAC instead of B-APD1,"after removing bare APD1, installed TAC signal in 
+board 1, channel 7",Data0015,0x65554555
+1177,220,mirror voltage ramp,,Test,,3,196,2009-06-22 12:17:00-04,,JSN,42-117C,0,On,-25000,,,Data0015,0x65556555
+1176,221,,,Production,,3,198,2009-06-22 21:41:00-04,,JSN,42-117C,150,On,-25000,,,Data0015,0x65556555
+1179,222,,,Production,,3,198,2009-06-23 19:10:00-04,,JSN,42-117C,0,On,-25000,,,Data0015,0x65556555
+1180,223,,,Production,,3,198,2009-06-25 07:00:00-04,,JSN,42-117C,1400,On,-25000,,,Data0015,0x65556555
+1181,224,,,Production,,4,1,2009-06-25 18:16:00-04,,JSN,42-117C,150,On,-25000,,,Data0015,0x65556555
+1182,225,Monitoring after changing SBDs,,Monitor,,4,2,2009-06-27 12:30:00-04,,JSN,42-117A,0,Off,0,,"SBD 42-117C died. Leakage went to about 26nA and trace was 
+very noisy. Gave the detector about 75 min of dry air before 
+replacing with SBD 42-117A",Data0015,0x65556555
+1183,226,new SBD; waiting for Rx to come up,,Test,,4,3,2009-06-29 08:40:00-04,,JSN,42-117A,0,Off,-25000,,"Rx off; shutted closed; ""new"" 1.0 mm SBD - but 
+uncalibrated and not gain adjusted yet",Data0015,0x65556555
+1184,227,first run with different 1.0mm SBD,,Production,,4,5,2009-06-29 17:14:00-04,,JSN,42-117A,1400,On,-25000,,"Rx back up after being down over weekend; ""new"" 1.0 mm SBD",Data0015,0x65556555
+1186,228,change disk,,Production,,4,5,2009-06-30 15:00:00-04,,JSN,42-117A,1400,On,-25000,,changed disk,Data0016,0x65556555
+1185,229,,,Production,,4,6,2009-07-01 15:00:00-04,,HB,42-117A,0,On,-25000,,,Data0016,0x65556555
+1187,230,"bAPD calibration, det 2,4",,Calibration,,4,6,2009-07-02 15:00:00-04,,HB,42-117A,0,On,-25000,,changed bAPDs #2 and 4 replacing 1 and 3,Data0016,0x65556555
+1188,231,,,Production,,4,8,2009-07-02 15:25:00-04,,JSN,42-117A,0,On,-25000,,,Data0016,0x65556555
+1189,232,test with ramping mirror and Pb shield,,Test,,4,8,2009-07-02 19:02:00-04,,JSN,42-117A,9999999,On,-25000,,"Trigger on e isnteadof usual e-p; TAC input 
+run 0: garbage 
+run 1: mirror = 0V / Pb-aperture= 0V 
+run 2: 0V / 20V 
+run 3: 0V / 50V 
+run 4: 0V / 300V 
+run 5: 0V / 1000V 
+run 6: 0V / 100V 
+run 7: 0V / 100V 
+run 8: 1400V/ 100V 
+run 9: 1400V/ 50V 
+run10: 300V/ 50V 
+run11: 150V/ 50V",Data0016,0x65556555
+1191,233,,,Production,,4,10,2009-07-02 22:45:00-04,,JSN,42-117A,0,On,-25000,,Trigger on e isnteadof usual e-p; TAC input,Data0016,0x65556555
+1192,234,Rx down during run,,Production,,4,10,2009-07-04 11:00:00-04,,JSN,42-117A,1400,On,-25000,,Trigger on e isnteadof usual e-p,Data0016,0x65556555
+1193,235,Rx down,,Test,,4,11,2009-07-06 07:30:00-04,,JSN,42-117A,1400,Off,-25000,,Trigger on e isnteadof usual e-p; Rx down,Data0016,
+1194,236,Rx down;Fe calibration for bAPDs,,Calibration,,4,12,2009-07-06 12:52:00-04,,JSN,42-117A,0,Off,-25000,,"Trigger all 4 bAPDs; Rx down 
+magnet still at 110A",Data0016,
+1195,237,Rx down;Co-57 and Am-241 calibration of SBD,,Calibration,,4,12,2009-07-06 13:38:00-04,,JSN,42-117A,0,Off,0,,"Rx down 
+run 0: 241Am source, but no event data to disk 
+run 1: 57Co source, events to disk 
+run 3: 241Am source, events to disk 
+run 4: 241Am source, events to disk",Data0016,
+1196,238,Rx down; bare APDs as function of magnet current,,Calibration,,4,13,2009-07-06 14:28:00-04,,HB,42-117A,0,Off,0,,"run O: magnet 110 A 
+run 1: magnet 70 A 
+run 2: magnet 30 A 
+run 3: magnet 20 A 
+run 4: magnet 10 A 
+run 5: magnet 0 A 
+run 6: magnet 0 A, higher thresholds, lower dead time 
+run 7: temperature monitor during first 35 min warmup",Data0016,
+1197,239,warm up: monitor run,,Monitor,,4,14,2009-07-06 16:45:00-04,,HB,42-117A,0,Off,0,,,Data0016,
+1198,240,monitor run,,Monitor,,4,15,2009-07-08 19:36:00-04,,JSN,42-117A,0,Off,0,,,Data0016,
+1199,241,monitor run,,Monitor,,4,17,2009-07-14 08:55:00-04,,JSN,42-117A,0,Off,0,,,Data0016,
+1200,242,APD bias on; B=110A,,Test,,4,21,2009-07-20 14:25:00-04,,JSN,42-117A,0,Off,0,,,Data0016,
+1202,243,Rx off but running as normal,,Test,,4,23,2009-07-20 18:43:00-04,,JSN,42-117A,0,Off,0,There are two S243 runs on log book page 23.,,Data0016,
+1205,244,Rx off; SBD on; trigger back to ep (from e...I hope),,Test,,4,23,2009-07-21 17:30:00-04,2009-07-20 18:43:00-04,JSN,42-117A,0,Off,0,,,Data0016,
+1203,245,Rx on; test of APDs with B=0,,Calibration,,4,24,2009-07-23 10:20:00-04,,JSN,42-117A,0,On,0,,,Data0016,
+1204,246,Rx on; test of APDs with B=110A to compare w/S245,,Calibration,,4,24,2009-07-23 11:30:00-04,,JSN,42-117A,0,On,0,,,Data0016,
+1206,247,First run of Cycle 7; 3 bAPDs,,Production,,4,26,2009-07-23 14:00:00-04,,JSN,42-117A,0,On,-25000,,,Data0016,0x65556565
+1207,248,,,Production,,4,26,2009-07-25 11:00:00-04,,JSN,42-117A,1400,On,-25000,Rx down at start of run,,Data0017,0x65556565
+1208,249,Monitor run due to OVC leak,,Monitor,,4,27,2009-07-26 12:00:00-04,,JSN,42-117A,0,Off,0,,,Data0017,
+1209,250,APDs on SBD offLHe cooling to LN2; LN2 warm,,Monitor,,4,30,2009-07-28 17:20:00-04,,JSN,42-117A,0,Off,0,,,Data0017,
+1211,251,APDs on SBD off; LHe stack warming; LN2 warm,,Test,,4,30,2009-07-29 10:10:00-04,,JSN,42-117A,0,Off,0,,,Data0017,
+1213,252,B=110A beam on but waiting,,Test,,4,34,2009-07-30 12:00:00-04,,JSN,42-117A,0,On,-25000,,,Data0017,0x65556565
+1212,253,First run after bellows leak,,Production,,4,35,2009-07-30 16:40:00-04,2009-08-05 11:00:00-04,JSN,42-117A,1400,On,-25000,HV trip near end,"- at beginning: APD gain probably still changing 
+- ~7 hours before end: 25 kV HV trip.",Data0017,0x65556565
+1214,254,,,Test,,4,37,2009-08-05 12:57:00-04,,HB,42-117A,1400,On,-25000,,"APD HVs changed; calibration runs to evaluate gain changes 
+mirror HV at several different settings during series.",Data0017,
+1216,255,get TAC time spectra for different mirror HVs,,Calibration,,4,38,2009-08-05 15:15:00-04,,HB,42-117A,999999,On,-25000,,"only coincidence runs with TAC after run 2 in board 1, channel 7: 
+run 0: mirror = +400 V 
+run 1: +700V 
+run 2: -500V 
+run 3: -500V (now TAC in 1/7) 
+run 4: -1000V 
+run 5: -1500V (last ~2 min of run mirror changes -1500->0V 
+run 6: +-0V 
+run 7: +1400V 
+run 8: +1800V; 25KV tripped near end of run",Data0017,0x65556565
+1217,256,,,Production,,4,39,2009-08-05 18:02:00-04,,HB,42-117A,1400,On,-25000,,,Data0017,0x65556565
+1218,256,"New disk, but duplicate Series and runs",,Production,,4,39,2009-08-08 14:31:00-04,,HB,42-117A,1400,On,-25000,duplicate Series number and runs,"when changing disk the series number was not changed.The 
+automatic run numbers started again at run 0. Maybe we should 
+change the series number later by hand.",Data0018,0x65556565
+1219,257,spaceholder for possible renaming of second series 256,,Other,,4,40,2009-08-08 14:31:00-04,,HB,42-117A,1400,On,-25000,,,Data0018,0x65556565
+1220,258,,,Production,,4,40,2009-08-09 14:01:00-04,2009-08-11 14:40:00-04,HB,42-117A,1400,On,-25000,,no change from series 256,Data0018,0x65556565
+1222,259,,,Calibration,,4,41,2009-08-12 15:23:00-04,,HB,42-117A,999999,On,-25000,,"with TAC in card 1, channel 7; only coincidence data 
+run 0: 1800V (eighteen hundred) 
+run 1: 1000V (thousand)",Data0018,0x65554565
+1221,260,,,Production,,4,42,2009-08-12 17:18:00-04,,HB,42-117A,1400,On,-25000,HV trip during run (last ~32 hours),no change from series 258,Data0018,0x65556565
+1223,261,,,Production,,4,43,2009-08-17 07:15:00-04,2009-08-18 14:36:00-04,HB,42-117A,1400,On,-25000,,no change from series 261,Data0018,0x65556565
+1224,262,,,Production,,4,43,2009-08-18 14:36:00-04,,HB,42-117A,1800,On,-25000,,"new, increased, mirror HV",Data0018,0x65556565
+1225,263,,,Production,,4,44,2009-08-21 07:20:00-04,,HB,42-117A,1800,On,-25000,,new disk drive,Data0019,0x65556565
+1226,264,,,Production,,4,44,2009-08-21 07:20:00-04,,HB,42-117A,0,On,-25000,,new mirror HV (0v),Data0019,0x65556565
+1227,265,,,Production,,4,46,2009-08-25 15:37:00-04,,JSN,42-117A,1400,On,-25000,,new mirror HV (1400v),Data0019,0x65556565
+1228,266,,3 and 4,Calibration,,4,46,2009-08-26 15:51:00-04,,HB,42-117A,1400,Off,0,source calibrations of SB detector,Am-241 and Co-57,Data0019,0x65556565
+1230,267,,,Production,,4,47,2009-08-26 18:02:00-04,,HB,42-117A,1400,On,-25000,New beam aperture; beginning SB still warmer/noisy,"we changed the upstream beam aperture from 1.00"" Li-Glass 
+to 0.75"" (Li-Plastic glued onto Li-Glass); 
+SB detector still a bit more noisy at beginning 
+probably due to elevated temperature after source calibration.",Data0019,0x65556565
+1229,268,,,Calibration,,4,48,2009-08-27 12:29:00-04,,HB,42-117A,9999999,On,-25000,"changing mirror, TAC spectrum","0.75"" beam aperture; 
+TAC spectra in board 1, channel 7 (bare APD 1 removed) 
+different mirror voltages 
+run 0 : 0V 
+run 1 : 300 V 
+run 2 : 1000 V 
+run 3 : 1400 V 
+run 4 : 1800 V",Data0019,0x65554565
+1231,269,,,Test,,4,49,2009-08-27 16:22:00-04,,HB,42-117A,1400,On,-25000,,"0.75"" beam aperture. 
+forgot to remove TAC spectrum; 2 calibration runs",Data0019,0x65554565
+1232,270,,,Production,,4,49,2009-08-27 16:38:00-04,,HB,42-117A,1400,On,-25000,,"0.75"" beam aperture",Data0019,0x65556565
+1233,271,"B=0 run; C1=0.75""",,Test,,4,49,2009-08-28 14:29:00-04,,JSN,42-117A,1400,On,-25000,B=0,"0.75"" beam aperture",Data0019,
+1234,272,do something while oxygenating the SBD,,Test,,4,50,2009-08-28 16:25:00-04,,JSN,42-117A,0,Off,0,SBD dead,SBD dead; HV=0=mirror; B=0; APDs on,Data0019,
+1235,273,monitor run while warming,,Monitor,,4,51,2009-08-31 09:45:00-04,,JSN,42-117A,0,Off,0,,Rx off,Data0019,
+1236,274,monitor run while cooling (we hope),,Monitor,,4,57,2009-09-08 12:00:00-04,,JSN,42-117A,0,Off,0,,Rx off,Data0019,
+1237,275,cooling to LHe; detector on,,Other,,4,58,2009-09-09 15:50:00-04,,JSN,42-117A,0,Off,0,,Rx off; SBD off; APDs cooling,Data0019,
+1238,276,cooling to LHe; detector on; SDB just turned on,,Other,,4,58,2009-09-10 07:35:00-04,,JSN,42-117A,0,Off,0,,Rx off; SBD on; APDs still cooling,Data0019,
+1240,277,SB background,0-3,Calibration,,4,59,2009-09-10 11:58:00-04,,HB,42-117A,0,On,0,APDs still cooling down,"beam on, magnet off, HV off, detectors all on 
+only first 4 calibration-trigger runs useful 
+mirror grounded (0V)",Data0019,
+1241,278,SB background,,Calibration,,4,60,2009-09-10 12:55:00-04,,HB,42-117A,0,On,0,APDs still cooling down,"SB background calibration 
+magnet off, 25 KV off 
+ep-trigger 
+still 0.75"" beam aperture 
+TAC in card 2, ch 7 (yes, card 2 by mistake)",Data0019,
+1242,279,SB background,,Calibration,,4,60,2009-09-10 14:46:00-04,,HB,42-117A,0,On,0,"APDs still cooling down, e-trigger","SB background calibration 
+magnet off, 25 KV off 
+new trigger: e only required 
+still 3/4"" beam aperture 
+TAC in card 2, ch 7",Data0019,
+1243,280,SB background,,Calibration,,4,61,2009-09-10 17:55:00-04,,HB,42-117A,0,On,0,"APDs cooling, new 1"" beam aperture, TAC input change","SB background calibration 
+magnet off, 25 KV off 
+still e only required 
+new 1"" beam aperture 
+TAC in card 1, ch 7 (changed from previous) 
+still mirror grounded (0V)",Data0019,
+1244,281,first run this period with magnet,,Calibration,,4,63,2009-09-11 13:48:00-04,,HB,42-117A,0,On,-19000,APDs still cooling down,"get TOF with 0V mirror before anything goes wrong 
+magnet ON, 19 kV 
+still e only required 
+TAC in card 1, ch 7 
+still mirror grounded (0V)",Data0019,
+1245,282,,,Calibration,,4,64,2009-09-11 16:08:00-04,,HB,42-117A,0,On,-25000,APDs still cooling down,"get TOF with 0V mirror; before anything goes wrong 
+magnet ON, 25 kV 
+still e only required 
+TAC in card 1, ch 7 
+still mirror grounded (0V)",Data0019,
+1246,283,,,Production,,4,65,2009-09-11 18:15:00-04,,HB,42-117A,0,On,-25000,APDs still cooling down,"still mirror grounded (0V) 
+note that APDs still ~ 15% below final gain 
+at beginning of Series",Data0019,0x65556565
+1247,284,,,Production,,4,66,2009-09-12 11:10:00-04,,HB,42-117A,0,On,-25000,new disk,"still mirror grounded (0V) 
+APD gain probably close to final",Data0020,0x65556565
+1248,285,,,Calibration,,4,67,2009-09-13 17:03:00-04,,HB,42-117A,999999,On,-25000,,"small APD HV adjustment before starting 
+run 0,1 garbage 
+run 2: mirror = +2.4 V (nominally 0) 
+run 3: +29.6V mirror 
+run 4: +59.6V 
+run 5: +89.7V 
+run 6: +39.7V 
+run 7: +19.7V 
+run 8: + 9.7V 
+run 9: -30.5V 
+run10: -90 V 
+run11: -10.3V 
+run12: 0.0V (grounded mirror) 
+run13: +119.7V 
+run14: +159.7V 
+run15: +179.7V",Data0020,0x65556565
+1249,286,,,Production,,4,70,2009-09-13 22:50:00-04,,JSN,42-117A,0,On,-25000,,,Data0020,0x65556565
+1250,287,,,Production,,4,70,2009-09-14 09:55:00-04,,JSN,42-117A,150,On,-25000,,,Data0020,0x65556565
+1251,288,,,Calibration,,4,71,2009-09-15 11:47:00-04,,HB,42-117A,999999,On,-25000,,"varying mirror HV; e-only trigger 
+run mirror 
+0 +150 V 
+1 + 90 
+2 + 30 
+3 - 30 
+4 - 90 
+5 -200 
+6 0 (grounded) 
+7 + 60 
+8 +180 
+9 +300 
+10 -300 
+11 -400 
+12 -700 
+13 -500 
+14 -150 
+15 -120 
+16 - 60 
+17 0 (grounded) 
+18 +1400 
+19 +1000 
+20 + 700 
+21 + 500 V",Data0020,0x65556565
+1252,289,,,Production,,4,73,2009-09-15 19:39:00-04,,HB,42-117A,1400,On,-25000,,,Data0020,0x65556565
+1253,290,,,Production,,4,75,2009-09-18 13:25:00-04,,HB,42-117A,1400,On,-25000,,noise reduced on 1/r detectors,Data0020,0x65556565
+1254,291,,,Production,,4,75,2009-09-18 17:05:00-04,,HB,42-117A,1400,On,-25000,,"additional scaler, initially in c14, then in C15 (changed during run 1) 
+new scaler is TAC SCA output, used for visual ep counting",Data0020,0x65556565
+1255,292,,,Production,,4,77,2009-09-20 18:35:00-04,,HB,42-117A,1400,On,-25000,Beam off during last hours,"before starting: shut down HV; during rampup two trips; ramp 
+up very slowly. 
+Beam went off around 9 am during data taking.",Data0020,0x65556565
+1256,293,,,Monitor,,4,79,2009-09-24 14:46:00-04,,HB,42-117A,0,Off,0,,brief series for warmup monitoring,Data0020,
+1257,294,,,Monitor,,4,79,2009-09-24 15:18:00-04,,HB,42-117A,0,Off,0,,warmup temperature monitoring,Data0020,
+1259,295,APDs on; SBD off; LHe cooling,,Other,,4,86,2009-10-02 17:17:00-04,,JSN,42-117A,0,Off,0,,B=110; Rx off; APDs on,Data0020,
+1260,296,APDs on; SBD on butdisconnected; LHe cooling,,Other,,4,86,2009-10-03 13:05:00-04,,JSN,42-117A,0,On,0,"Chs. 9,13, and14 tripped on current",B=110; Rx off; APDson; SBD disconnected,Data0020,
+1261,297,APDs on; SBD on; LHe cooling,,Other,,4,87,2009-10-05 09:20:00-04,,JSN,42-117A,0,Off,0,,B=110; Rx off; APDs on;,Data0020,
+1262,298,mirror voltage scan,,,,4,89,2009-10-05 12:42:00-04,,HB,42-117A,9999999,On,-99999,also change in Bertan HV!,"run 0: Bertan: 0v; Mirror: ground; beam on 
+run 1: Bertan: 0V; Mirror: ground; beam off 
+run 2: Bertan: -22.5kV; 
+run 3ff: Bertan: -25.0kV; beam on 
+run 3,4: mirror grounded 
+run 5: -90V on mirror 
+run 6: -30V 
+run 7: +30V 
+run 8: +60V 
+run 9: +300 V, but beam goes off 
+run 10: +300 V, beam on/off",Data0020,
+1263,299,,,,,4,92,2009-10-05 21:15:00-04,,HB,42-117A,0,On,-25000,beam off,reactor off,Data0020,
+1264,300,,,Other,,4,93,2009-10-06 12:59:00-04,,HB,42-117A,0,On,-25000,no beam; bareAPD gains changed,"Reactor off, beamline open. 
+Bare APD conversion gains changed from 1000 mV 
+full scale to 400 mV (50 keV to 20 keV).",Data0020,
+1265,301,Rx still down,,Other,,4,93,2009-10-06 15:53:00-04,,JSN,42-117A,0,Off,-25000,no beam,"Reactor off, beamline open.",Data0020,
+1266,302,,,Production,,4,94,2009-10-07 08:45:00-04,,JSN,42-117A,0,On,-25000,,first run after Rx down,Data0020,
+1268,303,mirror voltage scan,,,,4,94,2009-10-07 10:36:00-04,,HB,42-117A,9999999,On,-25000,,"run 0: mirror 0V (grounded 
+run 1: +180V 
+run 2: +1400V 
+run 3: +1000V (gain ampl. 7.00) 
+run 4: +1000V (gain 7.75) 
+run 5: +1000V (gain 8.50) 
+run 6: +1000v (gain 7.00) 
+run 7: +700V 
+run 8: +500V 
+run 9: +60V 
+run 10: +300v 
+run 11: +150V 
+run 12: +120V 
+run 13: + 90V 
+run 14: BGO calibrations, no event file created 
+run 15: -300V 
+run 16: - 60V 
+run 17: - 40V 
+run 18: - 20V 
+run 19: - 10V 
+run 20: 0V (grounded)",Data0020,
+1269,304,,,Production,,4,97,2009-10-07 21:15:00-04,,HB,42-117A,1400,On,-25000,new disk,"new disk; 
+BGO HVs have been adjusted before series started.",Data0021,0x65556565
+1270,305,,,Production,,4,98,2009-10-08 15:10:00-04,,JSN,42-117A,1400,On,-25000,,contination of S304; slight amp gain tweak on Up and West 1/v channels,Data0021,0x65556565
+1271,306,,,Monitor,,4,100,2009-10-12 13:00:00-04,,JSN,42-117A,0,Off,0,,waiting to resolve SBD problem; B =110; no SBD signal,Data0021,0x65556565
+1272,307,,,Monitor,,4,101,2009-10-13 16:18:00-04,,JSN,47-113B,0,Off,0,,still working on SBD problem; B =110; no SBD signal,Data0021,0x65556565
+1274,308,,,Monitor,,4,103,2009-10-14 15:10:00-04,,JSN,47-113B,0,Off,0,,waiting to resolve SBD problem; B =110; no SBD signal,Data0021,0x65556565
+1273,309,,,Monitor,,4,104,2009-10-16 16:30:00-04,,JSN,47-113B,0,Off,0,,waiting to resolve SBD problem; B =0; no SBD signal,Data0021,
+1276,310,,,Production,,4,107,2009-10-19 14:50:00-04,,JSN,48-162B,0,On,-25000,,"first run with aCORN loaner SBD; may still be cooling; 
+proton peak position may need to be adjusted",Data0021,0x65556565
+1277,311,mirror voltage scan,,Calibration,,4,109,2009-10-20 16:04:00-04,,HB,48-162B,999999,On,-25000,,"mirror voltage scan with TOF and e-trigger 
+(reduced proton gain) 
+run 0: 1400 V mirror, but bAPD calibration run 
+run 1: 1400 V mirror, TOF date 
+run 2: 0V garbage 
+run 3: 0V (grounded) 
+run 4: -30.5 V 
+run 5: -90 V 
+run 6: +29.7V 
+run 7: +9.7V 
+run 8: +19.7V 
+run 9: +59.7V 
+run10: +300 V 
+run11: +150 V 
+run12: + 90 V 
+run13: +120 V 
+run14: +180 V 
+run15: +500 V 
+run16: +700 V 
+run17: +1000V 
+run18: +1400V",Data0021,0x65556565
+1285,312,mirror voltage scan,,Calibration,,4,109,2009-10-20 16:04:00-04,,HB,48-162B,999999,On,-25000,,"mirror voltage scan with TOF and e-trigger 
+(reduced proton gain) 
+run 0: 1400 V mirror, but bAPD calibration run 
+run 1: 1400 V mirror, TOF date 
+run 2: 0V garbage 
+run 3: 0V (grounded) 
+run 4: -30.5 V 
+run 5: -90 V 
+run 6: +29.7V 
+run 7: +9.7V 
+run 8: +19.7V 
+run 9: +59.7V 
+run10: +300 V 
+run11: +150 V 
+run12: + 90 V 
+run13: +120 V 
+run14: +180 V 
+run15: +500 V 
+run16: +700 V 
+run17: +1000V 
+run18: +1400V",Data0021,0x65556565
+1278,313,,,Production,,4,114,2009-10-20 23:40:00-04,,HB,48-162B,1400,On,-25000,,,Data0021,0x65556565
+1279,314,,,Production,,4,115,2009-10-23 14:17:00-04,,JSN,48-162B,1400,On,-25000,Rx down during run,,Data0022,0x65556565
+1280,315,data run while Rx down,,Other,,4,116,2009-10-24 11:05:00-04,,JSN,48-162B,0,Off,-15000,,"Run while Rx is down because of lacking of cooling); 
+room temp is high; HV =-15kV",Data0022,0x65556565
+1281,316,,,Production,,4,116,2009-10-26 10:50:00-04,,JSN,48-162B,0,On,-25000,,"First run after Rx back up; note that vacuum proton is 
+starting out much lower than when we stopped for the weekend 
+shutdown",Data0022,0x65556565
+1282,317,,,Production,,4,117,2009-10-27 09:03:00-04,,JSN,48-162B,1400,On,-25000,,,Data0022,0x65556565
+1283,318,after flush of mirror (1400-> 0-> 1400),,Production,,4,118,2009-10-29 11:40:00-04,,JSN,48-162B,1400,On,-25000,,zero'd mirro voltage between this series and previous,Data0022,0x65556565
+1284,319,after flush of mirror (1400-> 0-> 1400),,Production,,4,119,2009-10-30 11:05:00-04,,JSN,48-162B,1400,On,-25000,,zero'd mirro voltage between this series and previous,Data0022,0x65556565
+1286,320,mirror voltage scan+beam-stop rate decay,,Calibration,,4,109,2009-11-01 16:53:00-05,,HB,48-162B,999999,On,-25000,,"mirror voltage scan with TOF and e-trigger 
+(regular proton gain) 
+run 0: 0V mirror (grounded) 
+run 1: 30 V 
+run 2: 150 V 
+run 3: 500 V 
+run 4: 1400 V 
+run 5-7 1 min runs 1400 V coincidence trigger 
+run 8-20 1 min runs 1400 V calibration internal trigger 
+during run 10 close beam gate 
+somewhat later HV trips 
+still scaler data should be useful for SB background rate ",Data0022,0x65556565
+1287,321,,,Production,,4,123,2009-11-01 19:46:00-05,,HB,48-162B,1400,On,-25000,Reactor goes off/battery goes dead near end of series,"Reactor goes off around 3 am Nov 2. 
+Batteries found to be dead (no e,p signals) morning of Nov. 2",Data0022,0x65556565
+1288,322,SB source calibration,,Calibration,,4,124,2009-11-02 13:58:00-05,,HB,48-162B,0,Off,0,,"run 2: no source, hall background 
+run 4: 241Am source 
+run 6: 57Co source 
+run 8: 241Am source 
+previous: internal trigger; next external ""e""-only trigger 
+run 10: 241Am source 
+run 11: 57Co-source",Data0022,
+1289,323,reactor off data,,Other,,4,125,2009-11-02 15:45:00-05,,HB,48-162B,0,Off,-25000,,,Data0022,
+1291,324,reactor off data,,Other,,4,127,2009-11-03 07:15:00-05,,JSN,48-162B,1400,Off,-25000,,Rx=beam=off,Data0022,
+1290,324,reactor off data,,Other,,4,127,2009-11-03 07:20:00-05,,JSN,48-162B,1400,Off,-25000,,Rx off,Data0022,
+1292,325,reactor off data; testing 1.7 keV peak in bAPDs,,Other,,4,128,2009-11-04 09:30:00-05,,JSN,48-162B,0,Off,-25000,,"Rx=beam=off; 
+Run0: mirror=0V HV=-25kV 
+Run1: mirror=1400V HV=-25kV 
+Run2: mirror=1400V HV=-20kV 
+Run3: mirror=1400V HV=-15kV 
+Run4: mirror=1400V HV=-10kV 
+Run5: mirror=1400V HV=-5kV 
+Run6: mirror=1400V HV=0V",Data0022,
+1294,326,(almost) everything off data,,Other,,4,128,2009-11-03 11:20:00-05,,HB,48-162B,0,On,0,,"Rx=beam=off, magnet off, HV off, mirror off",Data0022,
+1295,327,monitor run while warming,,Monitor,,4,129,2009-11-05 13:50:00-05,,JSN,48-162B,0,Off,0,,Everything off (Rx down); apparatus warming,Data0022,
+1298,402,"22Na source, histograms only",,Calibration,source,103,136,2010-02-17 17:35:00-05,,H.Breuer,none,0,On,0,,,Data0023,0x05550555
+1409,403,"22Na source, event data",,Calibration,source,103,137,2010-02-18 14:28:00-05,,H.Breuer,none,0,On,0,high rate/pileup,"hot 22Na source; 
+run 0 to 2 garbage 
+run 3,4 ok",Data0023,0x05550555
+1410,404,"57Co source, event data",,Calibration,source,103,137,2010-02-18 14:28:00-05,,H.Breuer,none,0,On,0,,"run 0 garbage 
+runs 1-3 ok; 10 mins each",Data0023,0x05550555
+1412,405,22Na source; gain scan after HV off,,Calibration,source,103,138,2010-02-19 17:50:00-05,,H.Breuer,none,0,On,0,,"12 runs at 5 min 
+20 runs at 15 min 
+infinite runs at 60 min",Data0023,0x05550555
+1413,406,"137Co source, event data",,Calibration,source,103,139,2010-02-22 15:19:00-05,,H.Breuer,none,0,Off,0,,"run 0 garbage 
+runs 1 ok",Data0023,0x05550555
+1414,407,"241Am source, event data",,Calibration,source,103,139,2010-02-22 15:28:00-05,,H.Breuer,none,0,Off,0,,,Data0023,0x05550555
+1415,408,"60Co source, histograms only",,Calibration,source,103,139,2010-02-22 15:45:00-05,,H.Breuer,none,0,Off,0,,"change det 1,2 from 400 mV to 1000mV full scale 
+after run 1 change to original",Data0023,0x05550555
+1416,409,"57Co source, event data",,Calibration,source,103,139,2010-02-22 16:03:00-05,,H.Breuer,none,0,On,0,,"run 0: regular trigger 
+run 1: trigger det 1 and 7 only 
+run 2: trigger det 5 and 11 only 
+runs 0-2 no event files 
+runs 3 to 8 write event files",Data0023,0x05550555
+1417,410,"137Cs source, event data",,Calibration,source,103,140,2010-02-22 19:33:00-05,,H.Breuer,none,0,On,0,,6 runs with 30 mins each,Data0023,0x05550555
+1418,411,"22Na source, histograms only",,Calibration,source,103,140,2010-02-22 23:54:00-05,,H.Breuer,none,0,On,0,,,Data0023,0x05550555
+1420,412,"22Na source, event data; test of synchronized running",,Calibration,source,103,140,2010-02-24 15:05:00-05,,H.Breuer,none,0,On,0,,,Data0023,0x05550555
+1419,413,"22Na source, histograms only; continue S.411",,Calibration,source,103,140,2010-02-24 15:05:00-05,,H.Breuer,none,0,On,0,,"disk full 
+delete event files 
+restart with run 12, end with run 13",Data0023,0x05550555
+1422,414,"weak 137Cs source at center, event files; HV turnon function",,Calibration,source,103,140,2010-02-24 15:05:00-05,,H.Breuer,none,0,On,0,,"0.1 uCi 137Cs at 20 cm reading, curtain rail 
+run 0 is garbage 
+run 1 no event file 
+runs 2 to 6 event file 
+HV off for 30 seconds; 
+02/26/2010: 
+14:24:45 to 14:47:30 HV off 
+14:47:55 start run (2min) 
+14:50:04 start run (2min) 
+14:52:30 start run normal (probably 5,15,60 min sequence) 
+03/01/2010 14:15 LN2 dewar empty 
+14:30 stop run 
+18:45:56 start HV ramp up 
+46:22 to 48:22 run 7 
+48:27 to 50:27 run 8 
+50:32 start run 9 with sequence: 
+24 runs at 5 minutes 
+20 runs at 15 minutes 
+many runs at 50 minuts 
+19:51 temperature readings 76.14/107.5/90.97/89.85 ",Data0023,0x05550555
+1421,415,"weak 137Cs source, event files, Scott debugging",,Calibration,source,103,142,2010-03-02 15:00:00-05,,H.Breuer,none,0,On,0,,,Data0023,0x05550555
+1423,416,"133Ba source, event files",,Calibration,source,103,143,2010-03-02 16:15:00-05,,H.Breuer,none,0,On,0,,"Trigger on det 13, synchronized 
+6"" further downstream 
+run 0,1 are bad 
+synchronization off starting with run 3 
+17:20 reset HV after accidental turn-off",Data0023,0x05550555
+1424,417,"133Ba source, histograms only",,Calibration,source,103,143,2010-03-03 16:15:00-05,,H.Breuer,none,0,On,0,,"calibration runs, 10 min each 
+(note HV failure previous day)",Data0023,0x05550555
+1425,418,"137Cs source, histograms only; APD voltage scan",,Calibration,source,103,144,2010-03-04 14:15:00-05,,H.Breuer,none,0,Off,0,,"modify APD HVs relative to breakdown HV; gain scan 
+(note: ch 3 had scaler electronics Tee'd off) 
+run 0: -100V 
+run 1: -90 
+run 2: -80 
+run 3: -70 
+run 4: -60 
+run 5: -50 
+run 6: -40 
+run 7: -35 
+run 8: -30 
+run 9: -25 
+run 10: -25 gage range *5 
+run 11: -25 trigger level increased 2% each 
+run 12: -25 
+run 13: -22 
+run 14: -19 
+run 15: -16 
+run 16: -14 
+run 17: -12 
+run 18: -10 
+run 19: -8 
+run 20: -6 
+run 21: -35 
+run 22: -30 ",Data0023,0x05550555
+1426,419,"137Cs source, histograms only",,Calibration,source,103,145,2010-03-04 20:42:00-05,,H.Breuer,none,0,Off,0,,,Data0023,0x05550555
+1428,420,"137Cs source, event files",,Calibration,source,103,146,2010-03-05 14:15:00-05,,H.Breuer,none,0,On,0,,"newly adjusted APD HVs 
+trigger on all channels, asynchronous",Data0023,0x05550555
+1427,421,"137Cs source, histograms only",,Calibration,source,103,146,2010-03-05 16:11:00-05,,H.Breuer,none,0,On,0,,"same as previous series, but no event files",Data0023,0x05550555
+1429,422,"57Co source, histograms only",,Calibration,source,103,146,2010-03-08 14:37:00-05,,H.Breuer,none,0,On,0,,"source at 27 cm 
+run 0 bad 
+run 1 trigger on all 
+run 2 trigger on 21 dead (synch on)",Data0023,0x05550555
+1430,423,"137Cs source, histograms only",,Calibration,source,103,147,2010-03-10 14:21:00-05,,H.Breuer,none,0,On,0,,"run 0 bad 
+run 1 137Cs source at 24 cm 
+run 2 22Na source at 24 cm 
+run 3 22Na source at 15cm, 10 cm 
+run 4 22Na source a 5 cm 
+run 5 22Na source at 15 cm 
+run 6 same as 5 
+issue of connecting/disconnecting to external counter 
+see logbook",Data0023,0x05550555
+1431,424,"137Cs source, histograms only",,Calibration,source,103,148,2010-03-11 15:55:00-05,,H.Breuer,none,0,On,0,,"weak 137Cs at 20 cm 
+det 7 (ch 21) dying? 
+""change LN2 timer from 5 to 6, manual fill"" 
+03/16/2010 ~14:00: LN2 empty about 15 h earlier 
+have to wait for new LN2 delivery",Data0023,0x05550555
+1321,425,Proton Detector Pulser Calibration,,Calibration,,104,2,2010-03-29 13:00:00-04,,H.Breuer,none,0,Off,0,"logbook 104 is ""Radiative Beta Decay Photon Detector IV""","50ns rise time; 50 us fall time; 
+preamp outside of tube; capacitor instead of detector; 
+not using fiber, external trigger 
+amplified signal -> attenuator -> 50Ohm feedthrough ->card1,ch8; 
+run 0,1,2 
+run 3: pulser into fan-in/out (bypassing preamp), invert 
+signal at pulser 
+run 4: through preamp and through fiber: ""complete electronics""",Data0023,0x05550555
+1322,426,Am and Cs source; event files,,Calibration,source,,5,2010-03-29 13:00:00-04,,H.Breuer,none,0,On,0,,"241Am source at center of detector, with ring aperture: 
+runs 0,1,3 histograms only 
+runs 4,5 to disk, ~100,000 events each 
+weak Cs source: 
+runs 5, 6 to disk, ~ 100,000 events each run",Data0023,0x05550555
+1323,427,"241Am source, position dependent, histograms only",,Calibration,source,,6,2010-04-02 13:25:00-04,,H.Breuer,none,0,Off,0,,"241Am source, with ring aperture: 
+many runs to trace out detector response (peak height) as 
+function of position along the BGO detector ",Data0023,0x05550555
+1324,428,"241Am source, 3 postitions, histograms only",,Calibration,source,,8,2010-04-02 19:13:00-04,,H.Breuer,none,0,Off,0,,,Data0023,0x05550555
+1325,429,"weak 57Co source, overnight run, histograms only",,Calibration,source,,8,2010-04-05 15:30:00-04,,H.Breuer,none,0,Off,0,,,Data0023,0x05550555
+1326,430,"weak 57Co source, HV calibration, histograms only",,Test,source,,9,2010-04-06 15:30:00-04,,H.Breuer,none,0,Off,0,,,Data0023,0x05550555
+1327,431,"137Cs source at 20cm (~center); histogr. only, several days",,Monitor,source,,10,2010-04-06 15:47:00-04,2010-04-15 13:02:00-04,H.Breuer,none,0,Off,0,"""beam on"" is meaningless after series 400""",,Data0023,0x05550555
+1328,432,"137Cs source at 23 cm, HV calibration",,Test,source,,11,2010-04-19 15:10:00-04,,H.Breuer,none,0,On,0,"""beam on"" is meaningless after series 400""","note on page 11 says: 
+cylinder sources (weak): center is at 20.3 cm reading 
+ring aperture (shielded) hot source (241Am): center is at 23.0cm. 
+Center means middle of BGO crystal.",Data0023,0x05550555
+1329,433,"137Cs source at 20.3 cm, overnight run, histograms only",,Calibration,source,,12,2010-04-19 16:15:00-04,2010-04-20 14:13:00-04,H.Breuer,none,0,On,0,"""beam on"" is meaningless after series 400""",,Data0023,0x05550555
+1330,434,"137Cs source at 20.3 cm, event data",,Calibration,source,,12,2010-04-20 14:16:00-04,,H.Breuer,none,0,On,0,,,Data0023,0x05550555
+1331,435,"57Co source at 23 cm, histograms only",,Calibration,source,,12,2010-04-20 15:40:00-04,,H.Breuer,none,0,On,0,,"(I'm a bit confused); logbook says: 
+Double lead on bottom, 5min runs; 
+16:43 stop run, rotate 180degree, #11",Data0023,0x05550555
+1332,436,"57Co, weak at 20.3cm; only histograms",,Calibration,source,,13,2010-04-20 18:25:00-04,2010-04-21 12:43:00-04,H.Breuer,none,0,On,0,,,Data0023,0x05550555
+1333,437,"57Co, weak, at 20.3cm; 10min event run data",,Calibration,source,,14,2010-04-21 14:05:00-04,,H.Breuer,none,0,On,0,,,Data0023,0x05550555
+1334,438,"133Ba, weak, at 20.3cm; histograms only, 1 run only",,Calibration,source,,14,2010-04-21 14:10:00-04,,H.Breuer,none,0,On,0,,,Data0023,0x05550555
+1335,439,"133Ba, weak, at 20.3cm; event data",,Calibration,source,104,14,2010-04-22 12:41:00-04,,H.Breuer,none,0,On,0,,,Data0023,0x05550555
+1336,440,137Cs at 19.7cm; histograms only,,Calibration,source,104,14,2010-04-22 15:18:00-04,,H.Breuer,none,0,On,0,,,Data0023,0x05550555
+1338,441,137Cs at 20.3cm; event data,,Calibration,pulser,104,15,2010-04-23 13:06:00-04,,H.Breuer,none,0,On,0,,,Data0023,0x05550555
+1352,442,Silicon detector pulser calibration; event data,,Calibration,pulser,104,15,2010-04-23 14:30:00-04,,H.Breuer,none,0,On,0,,see logbook for details,Data0024,0x05550555
+1339,443,137Cs at 20.3cm; gain changes after HV off (histograms only),,Monitor,source,104,18,2010-04-27 17:48:00-04,2010-04-29 13:00:00-04,H.Breuer,none,0,On,0,,"monitor gain after HV turn on : 
+start HV at start of run 1 (17:48:30) 
+start run 2 manually at 17:49:15 
+30 runs at 2 mins 
+then 5 minute runs 
+temperatures are 95.1/109.4/97.2/98.2 
+run 60 very short 
+starting run 61: 10 min runs",Data0024,0x05550555
+1340,444,137Cs at 20.3cm; scan of APD HV; histograms only,,Calibration,source,104,19,2010-04-29 13:14:00-04,,H.Breuer,none,0,On,0,,"change HV on APDs from -25 to +20V relative to nominal HV 
+to scan gain as function of HV",Data0024,0x05550555
+1341,445,137Cs at 20.3cm; histograms only,,Calibration,source,104,20,2010-04-29 16:20:00-04,,H.Breuer,none,0,On,0,,"detector 9 at 10V below nominal HV by mistake until run 132 
+detector 3 for run 0 only HV is 18V above normal",Data0024,0x05550555
+1342,446,"241Am with Cd ring aperture, at 23 cm; histograms only",,Calibration,source,104,21,2010-05-03 13:04:00-04,,H.Breuer,none,0,On,0,,,Data0024,0x05550555
+1343,447,"241Am with Cd ring aperture, at 23 cm; event data",,Calibration,source,104,21,2010-05-04 14:12:00-04,,H.Breuer,none,0,On,0,,,Data0024,0x05550555
+1353,448,"no source, rod at 23.3 cm; histograms only; 1 run only",,Calibration,background,104,21,2010-05-04 15:20:00-04,,H.Breuer,none,0,On,0,,,Data0024,0x05550555
+1354,449,"no source, rod at 23.3 cm; event data",,Calibration,background,104,21,2010-05-05 13:38:00-04,,H.Breuer,none,0,On,0,,"Background data with sources in cabinet; 
+runs 0-5: no source near magnet 
+run 6: strong 137 source taped to top,left, bottom, 
+and right of magnet for approx. 2 min each in this order.",Data0024,0x05550555
+1345,450,137Cs at 20.3cm; histograms only,,Calibration,source,104,21,2010-05-06 13:42:00-04,,H.Breuer,none,0,On,0,,,Data0024,0x05550555
+1347,451,137Cs at 20.3cm; trigger by one detector only each run,,Calibration,source,104,22,2010-05-06 13:42:00-04,,H.Breuer,none,0,On,0,,"synchronized external trigger (i.e., all 12 detectors in 
+coincidence); this allows to study outscattering, Compton 
+scattering, X-ray fluorescence etc. 
+Note that det. 7 is not working. 
+run 0: trigger on det. 1 
+run 1: trigger on det. 2 
+run 2: trigger on det. 3 
+run 3: trigger on det. 4 
+run 4: trigger on det. 5 
+run 5: trigger on det. 6 
+run 6: trigger on det. 8 
+run 7: trigger on det. 9 
+run 8: trigger on det. 10 
+run 9: trigger on det. 11 
+run 10: trigger on det. 12 
+run 11: trigger on all det. internally, not synchronized",Data0024,0x05550555
+1348,452,137Cs at 20.3cm; histograms only,,Calibration,source,104,22,2010-05-06 15:00:00-04,,H.Breuer,none,0,On,0,,"note source was removed for photographing before run 19; 
+thus temperature will be different starting with run 19",Data0024,0x05550555
+1349,453,137Cs at 20.3cm; different trigger conditions,,Calibration,source,104,23,2010-05-07 14:12:00-04,,H.Breuer,none,0,On,0,,"from logbook: 
+Trigger on single channel 
+Run 0: Trigger on all with T on ch 1, 5min, unsynchronized 
+Run 1: Trigger on ch1, 60 min, synchronized 
+Run 2: Trigger on all, T on ch5, 5min, unsynchronized 
+Run 3: Trigger on ch5, 60min, synchronized 
+Run 4: Trigger on all, T on ch 9, 5min, unsynchronized 
+Run 5: Trigger on ch9, 60min, synchronized 
+(HB: I suspect that T means that signal is T-ed off for 
+external scaler, which decreases signal amplitude by about 
+10%)",Data0024,0x05550555
+1350,454,137Cs at 20.3cm; Histograms only,,Calibration,source,104,23,2010-05-07 17:46:00-04,,H.Breuer,none,0,On,0,,,Data0024,0x05550555
+1351,455,57Co at 20.3cm; Histograms only,,Calibration,source,104,24,2010-05-10 13:37:00-04,,H.Breuer,none,0,On,0,,,Data0024,0x05550555
+1355,456,57Co at 20.3cm; write event files,,Calibration,source,104,24,2010-05-11 13:35:00-04,,H.Breuer,none,0,On,0,,"Run 0: 5 min trigger on all, T on ch2 
+run 1: 1 hr, trigger on 2, synchronized 
+run 2: 5min trigger on all, T on ch 6 
+run 3: 1 hr, trigger on 6, synchronized 
+run 4: 5 min, trigger on all, T on ch 10 
+run 5: 1 hr, trigger on 10, synchronized",Data0024,0x05550555
+1356,457,57Co at 20.3cm; histograms only,,Calibration,source,104,24,2010-05-11 17:30:00-04,,H.Breuer,none,0,On,0,,,Disk999,0x05550555
+1357,458,133Ba at 20.3cm; histograms only,,Calibration,source,104,24,2010-05-11 13:25:00-04,,H.Breuer,none,0,On,0,,,Data0024,0x05550555
+1358,459,133Ba at 20.3cm; event files,,Calibration,source,104,25,2010-05-17 13:55:00-04,,H.Breuer,none,0,On,0,,,Data0024,0x05550555
+1359,460,133Ba at 20.3cm; histograms only,,Calibration,source,104,25,2010-05-17 14:56:00-04,,H.Breuer,none,0,On,0,"pump failure, some warmup on 5/19",,Data0024,0x05550555
+1360,461,133Ba at 20.3cm; event files,,Calibration,source,104,27,2010-05-24 14:05:00-04,,H.Breuer,none,0,On,0,,"Run 0: trigger on all, T on ch3, 5 minutes 
+run 1: trigger on ch3, synchronized, 1 hour 
+run 2: trigger on all, T on ch11, 5 minutes 
+run 3: trigger on channel 11, synchronized, 1 hour 
+""T"" probably refers to BNC-T used to split signal to scaler; 
+this reduces amplitude by ~ 5%",Data0024,0x05550555
+1361,462,137Cs at 20.3cm; histograms only,,Calibration,source,104,27,2010-05-26 13:20:00-04,,H.Breuer,none,0,On,0,,,Data0024,0x05550555
+1362,463,137Cs at 31.5cm; histograms only,,Calibration,source,104,27,2010-05-28 14:09:00-04,,H.Breuer,none,0,On,0,,note the different source position,Data0024,0x05550555
+1363,464,137Cs position scan; histograms only,,Calibration,source,104,28,2010-06-02 13:00:00-04,,H.Breuer,none,0,On,0,,"position scan in 1 cm steps from 
+Run 0 at 34.5 cm to 
+run 23 at 11.5 cm source location.",Data0024,0x05550555
+1364,465,133Ba at 34.5 cm; histograms only,,Calibration,source,104,29,2010-06-03 13:16:00-04,,H.Breuer,none,0,On,0,,,Data0024,0x05550555
+1365,466,133Ba position scan; histograms only,,Calibration,source,104,29,2010-06-04 14:05:00-04,,H.Breuer,none,0,On,0,,"position scan in 1 cm steps from 
+Run 0 at 34.5 cm to 
+run 23 at 11.5 cm source location.",Data0024,0x05550555
+1366,467,137Cs at 20.3 cm; histograms only,,Calibration,source,104,30,2010-06-07 12:55:00-04,,H.Breuer,none,0,On,0,see note concerning general sequence/reason for Series,"After a new source has been inserted and before doing a 
+position scan, usually there is a one day ""histogram only"" 
+series. This is to let the system find thermal equilibrium 
+after the warm source has been inserted and before 
+doing the position scan to find pos.-dependent gain 
+variations.",Data0024,0x05550555
+1367,468,"241Am, shielded, at 23 cm; histograms only",,Calibration,source,104,30,2010-06-08 10:35:00-04,,H.Breuer,none,0,On,0,see note concerning general sequence/reason for Series,,Data0024,0x05550555
+1368,469,"241Am, shielded, at 23 cm; event files",,Calibration,source,104,31,2010-06-09 14:00:00-04,,H.Breuer,none,0,On,0,,six 10-minute event runs at center,Data0024,0x05550555
+1370,470,"137Cs, at 23.3 cm; histograms only, warming up series",,Calibration,source,104,31,2010-06-09 15:00:00-04,,H.Breuer,none,0,On,0,magnet warming up,,Data0024,0x05550555
+1371,471,"137Cs, at 23.3 cm; histograms only, warming up series",,Calibration,source,104,31,2010-06-11 14:00:00-04,,H.Breuer,none,0,On,0,magnet warming up,,Data0024,0x05550555
+1372,472,"137Cs, at 23.3 cm; histos only, warmer, HV off/on function",,Calibration,source,104,31,2010-06-17 13:37:00-04,,H.Breuer,none,0,On,0,magnet warming up; HV cycling,"HV on APDs increased 
+then HV off/on to get gain hysteresis 
+20 runs @2mins, followed by 5 min runs 
+runs 5-7 normal 
+run 8: turn off HV on det. 1-6 and 12; turn on 
+run 9-99 monitor gain after HV on 
+run100: starting 20 runs @2 mins again 
+run107: Hv off on dets 1,2,3,4,5 (maybe 6??) 
+run108: just seconds after HV back on again 
+... monitoring gain in following runs",Data0024,0x05550555
+1373,473,"137Cs, at 23.3 cm; histos only, cooling down",,Calibration,source,104,33,2010-06-18 13:50:00-04,,H.Breuer,none,0,On,0,magnet cooling down,"regular HV again; magnet cooling down 
+10 min runs",Data0024,0x05550555
+1374,474,"137Cs, at 23.3 cm; histos only, HV off/on function",,Calibration,source,104,34,2010-06-21 20:13:00-04,,H.Breuer,none,0,On,0,temperature still a bit increased,"HV off/on gain hysteresis scan at slightly 
+elevated temperature 
+20 runs at 1 min each, then 5 min runs 
+run 0-7 regular 
+run 8 HV off on dets 1,2,3,4,5,6; then on again 
+run 9 HV fully on all channels 
+run 17 end manually (~1 min long); change to 36 min runs ",Data0024,0x05550555
+1375,475,"137Cs, at 23.3 cm; histos only, LHe filling",,Calibration,source,104,34,2010-06-22 14:55:00-04,,H.Breuer,none,0,On,0,,"APD HV at -15V below regular HV 
+5 min runs 
+
+Liquid He cooldown starts 
+trouble with DAQ/ Computer off.",Data0024,0x05550555
+1376,476,"137Cs, at 23.3 cm; histos only, LHe filling; HV off/on",,Calibration,source,104,34,2010-06-22 14:55:00-04,,H.Breuer,none,0,On,0,HV ramping up; then magnet ramping up,"HV was off for some time 
+series of 40 1-min runs, then 24 5-min runs, then 10min runs 
+run 0 HV still off 
+run 1 HV ramping up 
+run 2 HV just up ... 
+~ run 7 - 24 resume LHe filling; stop with run 27 
+start again presumably with 1-min runs 
+magnet ramping up 
+rod with source got pulled in by magnet (~16A), 
+remove rod (~26A) 
+12:33 @110A insert source to 20.3 cm with SS rod 
+12:34 stop with run 42",Data0024,0x05550555
+1377,477,"137Cs, at 23.3 cm; histos only, magnet on",,Calibration,source,104,36,2010-06-23 12:35:00-04,,H.Breuer,none,0,On,0,magnet on,"Magnet at 110 A; 
+source had been reinserted just before start 
+stop with run 26; 
+10min runs (23-26) were triggering on ch 11 only 
+15:08 resume with regular 10 min runs with run 27 
+17:27 start ramping down magnet; quench of magnet 
+
+page 37: note about erratic behavior of Det. 9",Data0024,0x05550555
+1378,478,"137Cs, at 23.3 cm; histos only; new HV; LHe temperature",,Calibration,source,104,38,2010-06-24 11:23:00-04,,H.Breuer,none,0,On,0,magnet off; at LHe temperature,2 min runs,Data0024,0x05550555
+1379,479,"137Cs, at 23.3 cm; event data ; LHe temperature",,Calibration,source,104,38,2010-06-24 11:23:00-04,,H.Breuer,none,0,On,0,magnet off; at LHe temperature,"10 min runs to disk 
+Det 11 signal is T'ed off to Ortec 485 input; 
+expect signal decrease by about 5% due to this",Data0024,0x05550555
+1380,480,"137Cs, at 23.45 cm; event data ; LHe temperature",,Calibration,source,104,40,2010-06-24 13:08:00-04,,H.Breuer,none,0,On,0,magnet off; at LHe temperature,"run 0: internal trigger all detectors (5 mins) 
+run 1: external trigger det 11 (60 minutes)",Data0024,0x05550555
+1381,481,"137Cs, at 23.45 cm; histogram only ; magnet ramping up",,Calibration,source,104,40,2010-06-24 14:16:00-04,,H.Breuer,none,0,On,0,magnet ramping up,"14:16 start series with 2 min runs 
+14:26 start magnet ramping 3A/min in run 4 
+note about rather dissimilar rates for different detectors",Data0024,0x05550555
+1382,482,"137Cs, at 23.45 cm; event data ; magnet on",,Calibration,source,104,40,2010-06-24 15:26:00-04,,H.Breuer,none,0,On,0,magnet on,10 min runs writing to disk,Data0024,0x05550555
+1383,483,"137Cs, at 23.45 cm; event data ; magnet on",,Calibration,source,104,40,2010-06-24 16:29:00-04,,H.Breuer,none,0,On,0,magnet on,"run 0: Trigger all, 5 min run 
+run 1: Trigger on 11, 60 min 
+run 2: Trigger all, 5min 
+run 3: Trigger on 5, 1293.85 sec. 
+run 4: Trigger on 5, 1400 sec (205,000 evts) 
+increase external trigger level 
+run 6: Trigger on all, 5 min 
+run 7: trigger on 1, 60 min 
+then monitor magnet ramp down 
+run 8 field on, ~ 1min 
+run 9 field on, ~ 2min 
+ramp-down stuck at 109 A.... stop with run 59",Data0024,0x05550555
+1384,484,no source ; event data ; magnet on,,Calibration,no source,104,43,2010-06-24 22:22:00-04,,H.Breuer,none,0,On,0,magnet on,"no source on stick (background run), 
+magnet is still on 
+run 0: ? 
+runs 1-6: event data no source 
+run 7: event data Cs source outside of magnet, rotate 
+location by 90 degree every 2.5 minutes 
+(right,bottom,top,left)",Data0024,0x05550555
+1385,485,no source ; event data ; magnet on,,Calibration,no source,104,43,2010-06-24 22:22:00-04,,H.Breuer,none,0,On,0,magnet on,"no source on stick (background run), 
+(Cs source moved to cabinet) 
+magnet is still on 
+
+run 0: internal trigger all detectors (5 mins) 
+run 1: external trigger det 1 (60 min) 
+run 2: internal trigger, T on det 5; 5 mins, 
+source outside at bottom (to calibrate det 5 and 1) 
+run 3: internal trigger all, no source, 5 mins 
+run 4: external trigger det 5, 1 hour 
+run 5: all det trigger, T on 11, with source outside magnet 
+run 6: same, but no source 
+run 7: external trigger det. 11, no source",Data0024,0x05550555
+1386,486,137Cs at 23.4 cm ; event data ; magnet on,,Calibration,source,104,43,2010-06-25 04:10:00-04,,H.Breuer,none,0,On,0,magnet on,"trigger internal all detectors, 10 min runs 
+Cs source had been inserted 40 mins before start 
+series ends when disk is full",Data0024,0x05550555
+1387,487,137Cs at 23.4 5cm ; event data ; magnet on ??,,Calibration,source,104,46,2010-06-25 10:23:00-04,,H.Breuer,none,0,On,0,magnet on ??,"run 0: Trigger on all, 5 min 
+run 1: trigger on ch 5, 60 min 
+run 2: trigger on all, 5 min 
+run 3: trigger on ch 1, 60 min",Data0025,0x05550555
+1388,488,137Cs at 23.4 5cm ; event data ; magnet on ??,,Calibration,source,104,46,2010-06-25 12:30:00-04,,H.Breuer,none,0,On,0,magnet on ??,six 10-min runs,Data0025,0x05550555
+1389,489,no source ; event data ; magnet on ??,,Calibration,no source,104,46,2010-06-25 13:50:00-04,,H.Breuer,none,0,On,0,magnet on ??,"source removed, rod put back in 
+10 min runs 
+run 6: Cs source outside of magnet 
+(trigger level 5,6 increased)",Data0025,0x05550555
+1390,490,no source ; event data ; magnet on ??,,Calibration,no source,104,46,2010-06-25 15:15:00-04,,H.Breuer,none,0,On,0,magnet on ??,"no source 
+run 0: trigger on 1, 60 min 
+run 1: trigger on 5, 60 min 
+run 2: trigger on 11, 60 min 
+run 3: trigger on all, 10 min",Data0025,0x05550555
+1391,491,"no source, warming from LHe",,Calibration,no source,104,47,2010-06-25 18:51:00-04,,H.Breuer,none,0,On,0,,monitor warm up temperatures,Data0025,0x05550555
+1392,492,137Cs at 20.3 cm; histograms only?,,Calibration,source,104,47,2010-06-28 14:38:00-04,,H.Breuer,none,0,On,0,,,Data0025,0x05550555
+1393,493,57Co shielded at 34.5 cm; histograms only?,,Calibration,source,104,48,2010-06-29 15:25:00-04,,H.Breuer,none,0,On,0,,,Data0025,0x05550555
+1394,494,57Co shielded at 34.5 cm; histograms only; position scan,,Calibration,source,104,49,2010-06-30 13:35:00-04,,H.Breuer,none,0,On,0,,"1 cm steps from 
+run 0 at 34.5 cm to 
+run 23 at 11.5 cm",Data0025,0x05550555
+1395,495,"133Ba (open,weak) at 31.5 cm; histograms only",,Calibration,source,104,50,2010-07-01 13:10:00-04,,H.Breuer,none,0,On,0,,,Data0025,0x05550555
+1396,496,"133Ba (open,weak) at 31.5 cm; histograms only, pos scan",,Calibration,source,104,50,2010-07-02 12:43:00-04,,H.Breuer,none,0,On,0,,"position scan with open 133Ba source 
+every 5 mm 
+run 0 at 31.5cm to 
+run 46 at 8.5 cm",Data0025,0x05550555
+1397,497,133Ba (Pb aperture) at 34.5 cm; histograms only,,Calibration,source,104,52,2010-07-06 15:25:00-04,,H.Breuer,none,0,On,0,,,Data0025,0x05550555
+1398,498,133Ba (Pb aperture) at 34.5 cm; histograms only; pos scan,,Calibration,source,104,52,2010-07-07 12:05:00-04,,H.Breuer,none,0,On,0,,"position scan with ring-aperture 133Ba source 
+in 5 mm steps 
+from run 0 at 34.5 cm 
+to run 46 at 11.5 cm",Data0025,0x05550555
+1399,499,57Co (Pb aperture) at 34.5 cm; histograms only,,Calibration,source,104,53,2010-07-07 16:40:00-04,,H.Breuer,none,0,On,0,,,Data0025,0x05550555
+1400,500,57Co (Pb aperture) at 34.5 cm; histograms only; pos scan,,Calibration,source,104,54,2010-07-09 12:33:00-04,,H.Breuer,none,0,On,0,,"position scan with 57Co source with ring aperture 
+in 2 or 5 mm steps from 
+run 0 at 34.5 to run 58 at 12.5 cm ",Data0025,0x05550555
+1402,501,137Cs+57Co at 20.3 cm; histograms only,,Calibration,source,104,55,2010-07-15 13:25:00-04,,H.Breuer,none,0,On,0,,"combined sources, no shielding/aperture 
+137Cs + 57Co(which is 1 cm deeper in magnet)",Data0025,0x05550555
+1403,502,137Cs+57Co at 20.3 cm; event data,,Calibration,source,104,56,2010-07-16 12:15:00-04,,H.Breuer,none,0,On,0,,"combined sources, no shielding/aperture 
+137Cs + 57Co(which is 1 cm deeper in magnet) 
+six 10-min runs to disk",Data0025,0x05550555
+1404,503,137Cs+133Ba at 20.3 cm; histograms only,,Calibration,source,104,56,2010-07-16 12:15:00-04,,H.Breuer,none,0,On,0,,"combined sources, no shielding/aperture 
+137Cs + 133Ba(which is 1 cm deeper in magnet) ",Data0025,0x05550555
+1405,504,137Cs+133Ba at 20.3 cm; event data,,Calibration,source,104,56,2010-07-19 13:13:00-04,,H.Breuer,none,0,On,0,,"combined sources, no shielding/aperture 
+137Cs + 133Ba(which is 1 cm deeper in magnet) 
+write event data to disk",Data0025,0x05550555
+1406,505,57Co(23.3cm)+133Ba(at 21.3) cm; histograms only,,Calibration,source,104,56,2010-07-19 14:25:00-04,,H.Breuer,none,0,On,0,,"combined sources, no shielding/aperture 
+57Co source at 20.3 cm plus 
+133Ba source at 21.3 cm",Data0025,0x05550555
+1407,506,57Co(23.3cm)+133Ba(at 21.3) cm; event data,,Calibration,source,104,56,2010-07-20 11:58:00-04,,H.Breuer,none,0,On,0,,"combined sources, no shielding/aperture 
+57Co source at 20.3 cm plus 
+133Ba source at 21.3 cm 
+event data written to disk 
+(after this run: warm up to room temperature)",Data0025,0x05550555
+1408,507,dead time tests,,Calibration,noise trigger,104,58,2010-09-07 17:57:00-04,,H.Breuer,none,0,On,0,,"various dead time tests 
+continues (maybe) for several series; 
+only number of events of interest; event files probably 
+all deleted. 
+probably: don't have logbook pages handy",Data0025,0x05550555

@@ -1,0 +1,28 @@
+decay mode of a fundemental particle
+first observed a few years ago
+list main things in mc
+follow theme of thesis
+
+show peak
+show my bgc data
+jeff's analysis
+overlay two results
+mc + overlay
+
+emphasize my work
+half-hour at most - 15-20 slides
+
+update figure on slide 4
+
+electron capture, nuclear beta decay, took more than 70 yrs to observe in neutron, calculable within sm, continous spectrum of photons, leverage for physics beyond sm
+slide 2
+
+list steps of signal analysis - no pictures?
+slide explaining trace back
+filter, smooth, parameters
+captions on signal analysis
+
+slide for MC, before slide 17
+
+epg/ep on bgc slides
+
